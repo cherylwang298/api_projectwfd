@@ -12,7 +12,16 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('flights', function (Blueprint $table) {
-            $table->id();
+            $table->uuid('id')->primary();
+            $table->string('airline_id');
+            $table->string('origin');
+            $table->string('destination');
+            $table->timestamp('departure_time');
+            $table->timestamp('arrival_time');
+            $table->enum('class', ['business', 'economy'])->default('economy');
+            $table->integer('seats');
+            $table->unsignedInteger('price');
+            $table->foreign('airline_id')->references('id')->on('airlines')->onDelete('cascade');
             $table->timestamps();
         });
     }

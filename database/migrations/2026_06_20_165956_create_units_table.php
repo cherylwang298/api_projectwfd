@@ -12,7 +12,15 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('units', function (Blueprint $table) {
-            $table->id();
+            // $table->id();
+            $table->uuid('id')->primary();
+            $table->string('property_id');
+            $table->string('name');
+            $table->string('description')->nullable();
+            $table->integer('capacity')->nullable();
+            $table->unsignedInteger('price');
+            $table->foreign('property_id')->references('id')->on('properties')->onDelete('cascade');
+
             $table->timestamps();
         });
     }
