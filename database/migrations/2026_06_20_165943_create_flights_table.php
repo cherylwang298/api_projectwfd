@@ -16,8 +16,8 @@ return new class extends Migration
             $table->string('airline_id');
             $table->string('origin');
             $table->string('destination');
-            $table->timestamp('departure_time');
-            $table->timestamp('arrival_time');
+            $table->timestamp('departure_time')->nullable();
+            $table->timestamp('arrival_time')->nullable();
             $table->enum('class', ['business', 'economy'])->default('economy');
             $table->integer('seats');
             $table->unsignedInteger('price');
