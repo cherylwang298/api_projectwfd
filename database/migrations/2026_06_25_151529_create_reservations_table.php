@@ -14,8 +14,8 @@ return new class extends Migration
         Schema::create('reservations', function (Blueprint $table) {
             $table->uuid('id')->primary();
             $table->string('unit_id');
-            $table->timestamp('check_in');
-            $table->timestamp('check_out');
+            $table->timestamp('check_in')->nullable();
+            $table->timestamp('check_out')->nullable();
              $table->foreign('unit_id')->references('id')->on('units')->onDelete('cascade');
             $table->timestamps();
         });
