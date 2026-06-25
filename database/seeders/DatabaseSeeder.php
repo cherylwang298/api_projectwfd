@@ -24,7 +24,10 @@ class DatabaseSeeder extends Seeder
 
         $this->call([
             AirlineSeeder::class,
+            FlightSeeder::class,
             PropertySeeder::class,
+            UnitSeeder::class,
+            ImageSeeder::class,
         ]);
     }
 }
