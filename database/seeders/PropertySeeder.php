@@ -5,6 +5,8 @@ namespace Database\Seeders;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use App\Models\Property;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Str;
 
 class PropertySeeder extends Seeder
 {
@@ -14,17 +16,20 @@ class PropertySeeder extends Seeder
     public function run(): void
     {
         //
+        $json = file_get_contents(database_path('seeders/csv/properties.json'));
+        $properties = json_decode($json, true);
 
-    $properties = [
-        ['name' => 'property A', 'type' => 'villa', 'city' => 'city A', 'address' => 'address A', 'description' => 'description A'],
-        ['name' => 'property B', 'type' => 'hotel', 'city' => 'city B', 'address' => 'address B', 'description' => 'description B'],
-        ['name' => 'property C', 'type' => 'resort', 'city' => 'city C', 'address' => 'address C', 'description' => 'description C'],
-        ['name' => 'property D', 'type' => 'homestay', 'city' => 'city C', 'address' => 'address D', 'description' => 'description D'],
-    ];
-
-    foreach($properties as $p){
-        Property::create($p);
-    }
-
+        foreach ($properties as $prop) {
+            DB::table('properties')->insert([
+                'id' => Str::uuid()->toString(), // Generate UUID jika id database pakai UUID
+                'name' => $prop['name'],
+                'type' => $prop['type'],
+                'city' => $prop['city'],
+                'address' => $prop['address'],
+                'description' => $prop['description'],
+                'created_at' => now(),
+                'updated_at' => now(),
+            ]);
+        }
     }
 }

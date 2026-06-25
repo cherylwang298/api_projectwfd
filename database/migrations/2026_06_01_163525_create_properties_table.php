@@ -17,7 +17,7 @@ return new class extends Migration
             $table->enum('type', ['villa','hotel','homestay','resort']);
             $table->string('city');
             $table->string('address');
-            $table->string('description');
+            $table->text('description');
             $table->timestamps();
         });
     }

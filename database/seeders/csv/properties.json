@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "name": "Mulia Resort Nusa Dua",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Jl. Raya Nusa Dua Selatan, Kawasan Sawangan",
+    "description": "Mulia Resort Nusa Dua is a luxurious sanctuary perfect for an unforgettable tropical escape. Enjoy the private beach access, stunning infinity pools, and world-class hospitality."
+  },
+  {
+    "id": 2,
+    "name": "Aston Inn Batu",
+    "type": "villa",
+    "city": "Batu",
+    "address": "Jl. Abdul Gani Atas No. 42",
+    "description": "Aston Inn Batu is a cozy retreat offering breathtaking mountain views and serene atmospheres. Enjoy the rooftop lounge, heated swimming pool, and easy access to local theme parks."
+  },
+  {
+    "id": 3,
+    "name": "Golden Hill by Golden Tulip",
+    "type": "hotel",
+    "city": "Batu",
+    "address": "Jl. Raya Oro-Oro Ombo No. 11",
+    "description": "Golden Hill by Golden Tulip is an elegant property designed for modern travelers seeking comfort. Enjoy the sophisticated sky lounge, fitness center, and premium bedding options."
+  },
+  {
+    "id": 4,
+    "name": "Plataran Borobudur Resort",
+    "type": "villa",
+    "city": "Magelang",
+    "address": "Jl. Dusun Tanjungan, Borobudur",
+    "description": "Plataran Borobudur Resort is a majestic estate showcasing traditional Javanese elegance amidst lush greenery. Enjoy the private spa treatments, fine dining restaurant, and view of the ancient temple."
+  },
+  {
+    "id": 5,
+    "name": "The Kayon Jungle Resort",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Banjar Bresela, Payangan, Ubud",
+    "description": "The Kayon Jungle Resort is a romantic haven tucked away in the heart of Ubud's rainforest. Enjoy the famous three-tiered valley pool, holistic wellness spa, and riverside dining."
+  },
+  {
+    "id": 6,
+    "name": "Amankila Ocean Villas",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Jl. Raya Manggis, Karangasem",
+    "description": "Amankila Ocean Villas is a spectacular coastal paradise overlooking the Lombok Strait. Enjoy the iconic three-tier infinity pool, private beach club, and personalized butler services."
+  },
+  {
+    "id": 7,
+    "name": "Mercure Bali Nusa Dua Hotel",
+    "type": "hotel",
+    "city": "Bali",
+    "address": "Jl. Pratama No. 62, Tanjung Benoa",
+    "description": "Mercure Bali Nusa Dua Hotel is a vibrant destination ideal for families and business leisure travelers alike. Enjoy the unique lagoon-style swimming pool, shuttle service to the beach, and contemporary fitness center."
+  },
+  {
+    "id": 8,
+    "name": "Alila Villas Uluwatu",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Jl. Belimbing Sari, Tambiyak, Pecatu",
+    "description": "Alila Villas Uluwatu is a breathtaking clifftop resort that redefines sustainable luxury living. Enjoy the dramatic overhanging sunset cabana, private pool in every villa, and panoramic ocean views."
+  },
+  {
+    "id": 9,
+    "name": "Pullman Lombok Merujani",
+    "type": "villa",
+    "city": "Lombok",
+    "address": "Kawasan Ekonomi Khusus Mandalika, Kuta",
+    "description": "Pullman Lombok Merujani is a refreshing beachside oasis near the famous Mandalika international circuit. Enjoy the modern tech-savvy rooms, direct beachfront pool, and traditional spa treatments."
+  },
+  {
+    "id": 10,
+    "name": "Grand Hyatt Yogyakarta",
+    "type": "hotel",
+    "city": "Yogyakarta",
+    "address": "Jl. Palagan Tentara Pelajar, Ngaglik",
+    "description": "Grand Hyatt Yogyakarta is a resort-style hotel featuring magnificent views of Mount Merapi. Enjoy the sprawling lagoon pool, tennis courts, and beautifully landscaped tropical gardens."
+  },
+  {
+    "id": 11,
+    "name": "Ayana Komodo Waecicu Beach",
+    "type": "villa",
+    "city": "Labuan Bajo",
+    "address": "Pantai Waecicu, Labuan Bajo",
+    "description": "Ayana Komodo Waecicu Beach is an exquisite base for exploring the wild Komodo National Park. Enjoy the luxury sunset jetty, marine research center, and direct glass-bottom boat tours."
+  },
+  {
+    "id": 12,
+    "name": "Hotel Tentrem Yogyakarta",
+    "type": "hotel",
+    "city": "Yogyakarta",
+    "address": "Jl. P. Mangkubumi No. 72A",
+    "description": "Hotel Tentrem Yogyakarta is a cultural gem blending modern luxury with authentic Javanese warmth. Enjoy the executive lounge, traditional jamu bar, and Olympic-sized swimming pool."
+  },
+  {
+    "id": 13,
+    "name": "Sudamala Resort Senggigi",
+    "type": "villa",
+    "city": "Lombok",
+    "address": "Jl. Raya Senggigi, Batu Layar",
+    "description": "Sudamala Resort Senggigi is a peaceful sanctuary perfect for those looking to disconnect from the world. Enjoy the beachfront yoga pavilion, local art gallery, and sunset deck dining."
+  },
+  {
+    "id": 14,
+    "name": "The Phoenix Hotel MGallery",
+    "type": "hotel",
+    "city": "Yogyakarta",
+    "address": "Jl. Jend. Sudirman No. 9",
+    "description": "The Phoenix Hotel MGallery is a charming boutique property steeped in colonial history and vintage style. Enjoy the courtyard swimming pool, authentic fine dining, and classic wine bar."
+  },
+  {
+    "id": 15,
+    "name": "Jambuluwuk Oceano Seminyak",
+    "type": "hotel",
+    "city": "Bali",
+    "address": "Jl. Petitenget No. 108, Seminyak",
+    "description": "Jambuluwuk Oceano Seminyak is a trendy oasis situated right in the heart of Bali's most vibrant district. Enjoy the rooftop swimming pool, colorful modern decor, and relaxing health spa."
+  },
+  {
+    "id": 16,
+    "name": "Padma Resort Ubud",
+    "type": "hotel",
+    "city": "Bali",
+    "address": "Banjar Puhu, Desa Puhu, Payangan",
+    "description": "Padma Resort Ubud is a stunning destination hidden within an untouched river valley in northern Ubud. Enjoy the massive heated infinity pool, scenic jogging tracks, and world-class buffet breakfasts."
+  },
+  {
+    "id": 17,
+    "name": "Novotel Lombok Resort & Villas",
+    "type": "hotel",
+    "city": "Lombok",
+    "address": "Pantai Putri Nyale, Pujut, Kuta",
+    "description": "Novotel Lombok Resort & Villas is a family-friendly getaway designed with distinctive Sasak architecture. Enjoy the daily beachfront activities, kids club, and outdoor movie nights under the stars."
+  },
+  {
+    "id": 18,
+    "name": "Sutasoma Hotel Jakarta",
+    "type": "hotel",
+    "city": "Jakarta",
+    "address": "Jl. Dharmawangsa III No. 2, Kebayoran Baru",
+    "description": "Sutasoma Hotel Jakarta is a majestic modern property reflecting deep Indonesian heritage and timeless luxury. Enjoy the rooftop infinity pool, art-deco inspired rooms, and premium business lounge."
+  },
+  {
+    "id": 19,
+    "name": "Swiss-Belresort Dago Heritage",
+    "type": "hotel",
+    "city": "Bandung",
+    "address": "Jl. Lapangan Golf Dago Atas No. 78",
+    "description": "Swiss-Belresort Dago Heritage is a fantastic choice nestled in the scenic hills of Upper Dago. Enjoy the heated infinity pool, panoramic golf course views, and cozy mountain-breeze terrace."
+  },
+  {
+    "id": 20,
+    "name": "MesaStila Resort & Spa",
+    "type": "villa",
+    "city": "Magelang",
+    "address": "Jl. Losari, Grabag, Magelang",
+    "description": "MesaStila Resort & Spa is a historic wellness retreat surrounded by working coffee plantations and majestic volcanoes. Enjoy the authentic Turkish hammam spa, daily yoga classes, and heritage villa tours."
+  },
+  {
+    "id": 21,
+    "name": "Sheraton Belitung Resort",
+    "type": "hotel",
+    "city": "Belitung",
+    "address": "Jl. Pantai Penyamun, Tanjung Binga",
+    "description": "Sheraton Belitung Resort is an eco-friendly paradise bordered by pristine white sands and turquoise waters. Enjoy the direct island-hopping boat access, outdoor pool, and local seafood restaurant."
+  },
+  {
+    "id": 22,
+    "name": "The Oberoi Beach Resort",
+    "type": "hotel",
+    "city": "Lombok",
+    "address": "Pantai Medana, Tanjung",
+    "description": "The Oberoi Beach Resort is an exclusive estate featuring traditional thatched-roof architecture across vast tropical lawns. Enjoy the private beach dining, tennis courts, and beautiful coral reef snorkeling."
+  },
+  {
+    "id": 23,
+    "name": "Viceroy Bali Luxury Villas",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Jl. Lanyahan, Br. Nagi, Ubud",
+    "description": "Viceroy Bali Luxury Villas is a prestigious resort catering to travelers looking for absolute privacy and elite service. Enjoy the helipad access, award-winning fine dining, and individual valley-view pools."
+  },
+  {
+    "id": 24,
+    "name": "Komaneka at Bisma",
+    "type": "hotel",
+    "city": "Bali",
+    "address": "Jl. Bisma, Ubud, Gianyar",
+    "description": "Komaneka at Bisma is a serene hillside hideaway overlooking the Campuhan river valley. Enjoy the 33-meter lap pool, extensive Balinese art collection, and authentic cultural workshops."
+  },
+  {
+    "id": 25,
+    "name": "The Trans Luxury Hotel",
+    "type": "hotel",
+    "city": "Bandung",
+    "address": "Jl. Gatot Subroto No. 289",
+    "description": "The Trans Luxury Hotel is a spectacular city hotel offering unmatched luxury and entertainment connections. Enjoy the white sandy beach pool, skywalk restaurant, and direct theme park access."
+  },
+  {
+    "id": 26,
+    "name": "Inaya Putri Bali Resort",
+    "type": "hotel",
+    "city": "Bali",
+    "address": "Kawasan Wisata Nusa Dua Lot S3",
+    "description": "Inaya Putri Bali Resort is a breathtaking beachfront destination celebrating classic Indonesian craftsmanship. Enjoy the multi-tiered swimming pools, private beach sunbeds, and international beachside bistros."
+  },
+  {
+    "id": 27,
+    "name": "InterContinental Bandung Dago Pakar",
+    "type": "hotel",
+    "city": "Bandung",
+    "address": "Jl. Resor Dago Pakar Raya 2B",
+    "description": "InterContinental Bandung Dago Pakar is a sleek hilltop getaway perfectly balancing nature and urban luxury. Enjoy the heated infinity pool, grand ballroom facilities, and misty mountain morning views."
+  },
+  {
+    "id": 28,
+    "name": "Banyan Tree Bintan Villas",
+    "type": "villa",
+    "city": "Bintan",
+    "address": "Jl. Teluk Berembang Laguna Bintan",
+    "description": "Banyan Tree Bintan Villas is a stunning cliffside resort offering luxurious villas with private plunge pools. Enjoy the championship 18-hole golf course, private beach access, and signature spa pavilions."
+  },
+  {
+    "id": 29,
+    "name": "The Gaia Hotel Bandung",
+    "type": "hotel",
+    "city": "Bandung",
+    "address": "Jl. Dr. Setiabudi No. 430, Ledeng",
+    "description": "The Gaia Hotel Bandung is a contemporary mountain masterpiece focused on relaxation, music, and nature. Enjoy the spectacular infinity pool, on-site coffee roastery, and unique architecture."
+  },
+  {
+    "id": 30,
+    "name": "Suarga Padang Padang",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Jl. Pantai Labuan Sait, Uluwatu",
+    "description": "Suarga Padang Padang is a sustainable eco-resort built from repurposed wood overlooking a premier surf break. Enjoy the solar-powered luxury villas, panoramic ocean-view pools, and organic dining."
+  },
+  {
+    "id": 31,
+    "name": "Katamama Seminyak by Desa Potato Head",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Jl. Petitenget No. 51B, Seminyak",
+    "description": "Katamama Seminyak is a boutique creative hub constructed from hand-pressed local red temple bricks. Enjoy the artisan mixology bar, dayclub daybed privileges, and bespoke curated cultural tours."
+  },
+  {
+    "id": 32,
+    "name": " Hanging Gardens of Bali",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Buahan, Payangan, Gianyar",
+    "description": "Hanging Gardens of Bali is an iconic jungle paradise famous for its stunning, world-renowned architecture. Enjoy the twin-tiered cascading pool, luxury river spa, and candlelit jungle dinners."
+  },
+  {
+    "id": 33,
+    "name": "Como Uma Ubud",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Jl. Raya Sanggingan, Ubud",
+    "description": "Como Uma Ubud is a tranquil contemporary retreat combining sleek modern design with local Javanese influences. Enjoy the guided estate valley walks, world-famous holistic wellness spa, and Italian cuisine."
+  },
+  {
+    "id": 34,
+    "name": "Marriott Yogyakarta Hotel",
+    "type": "villa",
+    "city": "Yogyakarta",
+    "address": "Jl. Ring Road Utara, Condongcatur",
+    "description": "Marriott Yogyakarta Hotel is a modern urban hub providing unparalleled upscale comfort and connectivity. Enjoy the massive outdoor pool, directly integrated shopping mall access, and signature club lounge."
+  },
+  {
+    "id": 35,
+    "name": "W Bali - Seminyak",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Jl. Petitenget, Kerobokan, Seminyak",
+    "description": "W Bali - Seminyak is a glamorous chic beachfront property tailored for the vibrant, trendsetting crowd. Enjoy the 24-hour pool party scene, private sound-recording studio, and world-class beachfront bars."
+  },
+  {
+    "id": 36,
+    "name": "The Legian Seminyak",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Jl. Menara, Seminyak Beach",
+    "description": "The Legian Seminyak is a classic all-suite beachfront luxury icon showcasing timeless oceanfront design. Enjoy the tier-pool overlooking the Indian Ocean, personal butler pampering, and quiet beach gardens."
+  },
+  {
+    "id": 37,
+    "name": "Nihi Sumba Luxury Resort",
+    "type": "villa",
+    "city": "Sumba",
+    "address": "Hoba Wawi, Wanokaka, West Sumba",
+    "description": "Nihi Sumba Luxury Resort is an extraordinary off-the-grid haven voted among the best eco-resorts worldwide. Enjoy the private world-class surfing waves, beach horse-riding club, and spa safari adventures."
+  },
+  {
+    "id": 38,
+    "name": "The Apurva Kempinski Bali",
+    "type": "hotel",
+    "city": "Bali",
+    "address": "Jl. Raya Nusa Dua Selatan, Benoa",
+    "description": "The Apurva Kempinski Bali is a breathtaking cliffside palace celebrating the richness of Indonesian heritage. Enjoy the ocean-facing majestic steps, underwater aquarium dining, and private beachfront cabanas."
+  },
+  {
+    "id": 39,
+    "name": "Soori Bali Eco Villas",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Banjar Karang Anyar, Desa Kelating, Tabanan",
+    "description": "Soori Bali Eco Villas is a peaceful volcanic black-sand retreat focused on holistic eco-luxury living. Enjoy the private ocean-facing infinity pool, therapeutic volcanic clay wraps, and farm-to-table culinary experiences."
+  },
+  {
+    "id": 40,
+    "name": "Anantara Uluwatu Bali Resort",
+    "type": "hotel",
+    "city": "Bali",
+    "address": "Jl. Pemutih, Labuan Sait, Uluwatu",
+    "description": "Anantara Uluwatu Bali Resort is a cliff-hanging modern masterpiece offering unmatched dramatic sunset views. Enjoy the outdoor ocean-view jacuzzi, clifftop yoga pavilion, and direct elevator access to impossible beach surf."
+  },
+  {
+    "id": 41,
+    "name": "Lafayette Boutique Hotel",
+    "type": "hotel",
+    "city": "Yogyakarta",
+    "address": "Jl. Ring Road Utara No. 409",
+    "description": "Lafayette Boutique Hotel is a grand classic property radiating timeless French neo-classical architecture and luxury. Enjoy the majestic penthouse views, Parisian-style indoor café, and premium personalized room service."
+  },
+  {
+    "id": 42,
+    "name": "Bumi Surabaya Resort",
+    "type": "hotel",
+    "city": "Surabaya",
+    "address": "Jl. Jend. Basuki Rahmat No. 106",
+    "description": "Bumi Surabaya Resort is a refreshing green oasis located right in the center of a bustling metropolis. Enjoy the traditional night market dining concept, tranquil koi ponds, and classic business facilities."
+  },
+  {
+    "id": 43,
+    "name": " Plataran Menjangan Resort",
+    "type": "villa",
+    "city": "Banyuwangi",
+    "address": "Wana Wisata Brumbun, West Bali National Park",
+    "description": "Plataran Menjangan Resort is an eco-luxury forest retreat located inside the serene West Bali National Park protected area. Enjoy the private mangrove boardwalk kayaking, wildlife safari tours, and pristine coral reef diving."
+  },
+  {
+    "id": 44,
+    "name": "Dialoog Hotel Banyuwangi",
+    "type": "villa",
+    "city": "Banyuwangi",
+    "address": "Jl. Raya Klopo No. 11, Klatak",
+    "description": "Dialoog Hotel Banyuwangi is a minimalist contemporary beachfront getaway bridging Java and Bali styles. Enjoy the beachfront infinity pool overlooking Bali strait, open-air beach dining, and modern cycling tours."
+  },
+  {
+    "id": 45,
+    "name": "Kura Kura Resort",
+    "type": "hotel",
+    "city": "Karimunjawa",
+    "address": "Menyawakan Island, Karimunjawa",
+    "description": "Kura Kura Resort is a dream island sanctuary surrounded by pristine, untouched marine conservation lagoons. Enjoy the private island picnic excursions, sunset palm-tree bar, and overwater lagoon villas."
+  },
+  {
+    "id": 46,
+    "name": "Matahari Beach Resort & Spa",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Jl. Raya Seririt-Gilimanuk, Pemuteran",
+    "description": "Matahari Beach Resort & Spa is an authentic cultural gem highlighting handcrafted Balinese woodwork and quiet northern coastlines. Enjoy the direct coral-reef rejuvenation diving, open-air spa, and garden pavilions."
+  },
+  {
+    "id": 47,
+    "name": "The Singhasari Resort",
+    "type": "hotel",
+    "city": "Batu",
+    "address": "Jl. Ir. Soekarno No. 120",
+    "description": "The Singhasari Resort is a grand cultural resort bringing together Majapahit heritage and modern amenities. Enjoy the massive family waterpark pool, mini golf court, and mountain-breeze sky lounge."
+  },
+  {
+    "id": 48,
+    "name": "The Oberoi Beach Resort Bali",
+    "type": "hotel",
+    "city": "Bali",
+    "address": "Jl. Kayu Aya, Seminyak Beach",
+    "description": "The Oberoi Beach Resort Bali is a legendary beachfront institution set across fifteen acres of pristine tropical palace gardens. Enjoy the open-air cultural performance amphitheater, beachfront dining, and Balinese style luxury."
+  },
+  {
+    "id": 49,
+    "name": "Senyiur Prigen Resort",
+    "type": "hotel",
+    "city": "Pasuruan",
+    "address": "Jl. Putuk Truno No. 208, Prigen",
+    "description": "Senyiur Prigen Resort is a classical mountain resort boasting refreshing, crisp high-altitude air and rich Javanese ambiance. Enjoy the grand garden swimming pool, private horse-riding track, and classic wood fireplace lounges."
+  },
+  {
+    "id": 50,
+    "name": "Amanjiwo Heritage Resort",
+    "type": "hotel",
+    "city": "Magelang",
+    "address": "Ds. Majaksingi, Borobudur",
+    "description": "Amanjiwo Heritage Resort is a breathtaking monolithic stone resort mimicking the architecture of the nearby Borobudur temple. Enjoy the peaceful countryside cycling, limestone pool amphitheater, and private spiritual meditation guides."
+  },
+  {
+    "id": 51,
+    "name": "Tugu Hotel Malang",
+    "type": "villa",
+    "city": "Malang",
+    "address": "Jl. Tugu No. 3, Klojen",
+    "description": "Tugu Hotel Malang is a romantic boutique museum hotel housing a magnificent private collection of antique Indonesian artifacts. Enjoy the traditional tea time ceremonies, historic themed suites, and authentic Chinese-Peranakan dining."
+  },
+  {
+    "id": 52,
+    "name": "Cempaka Hill Hotel",
+    "type": "hotel",
+    "city": "Jember",
+    "address": "Jl. Cempaka No. 50, Patrang",
+    "description": "Cempaka Hill Hotel is a relaxing modern hilltop property perfect for business travelers and weekend family gatherings. Enjoy the Olympic-sized indoor swimming pool, large fitness gym, and city view breakfast terrace."
+  },
+  {
+    "id": 53,
+    "name": "Kapas Luxury Villas",
+    "type": "villa",
+    "city": "Lombok",
+    "address": "Gili Trawangan Island, North Lombok",
+    "description": "Kapas Luxury Villas is a stylish modern hideaway located on a vibrant car-free paradise island. Enjoy the private tropical pool garden, complimentary island bicycle rentals, and open-air movie arrangements."
+  },
+  {
+    "id": 54,
+    "name": "The Royal Pita Maha",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Kedewatan, Ubud, Gianyar",
+    "description": "The Royal Pita Maha is an enchanting river-valley resort celebrating the spiritual artistry of Balinese culture. Enjoy the organic river-water pools, sacred spring water pavilions, and panoramic jungle view terraces."
+  },
+  {
+    "id": 55,
+    "name": "Desa Alamanis Resort Vila",
+    "type": "villa",
+    "city": "Cirebon",
+    "address": "Jl. Raden Kean Santang, Beber",
+    "description": "Desa Alamanis Resort Vila is a charming vintage resort offering a unique, slow-paced traditional rural village experience. Enjoy the traditional rustic open-air bathrooms, locally sourced organic kitchen, and peaceful forest stream views."
+  },
+  {
+    "id": 56,
+    "name": "Jeeva Klui Resort",
+    "type": "hotel",
+    "city": "Lombok",
+    "address": "Jl. Raya Senggigi No. 21, Klui",
+    "description": "Jeeva Klui Resort is an eco-friendly beach oasis perfectly framed by dramatic coconut palm trees and volcanic sands. Enjoy the oceanfront infinity pool, adults-only spa gardens, and traditional Indonesian cooking schools."
+  },
+  {
+    "id": 57,
+    "name": "Maya Ubud Resort & Spa",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Jl. Gunawan, Peliatan, Ubud",
+    "description": "Maya Ubud Resort & Spa is a beautiful paradise balance of contemporary style and pristine river-valley jungle wilderness. Enjoy the dramatic jungle valley elevators, riverside spa villas, and extensive open-air tennis courts."
+  },
+  {
+    "id": 58,
+    "name": "Novotel Samator Surabaya",
+    "type": "hotel",
+    "city": "Surabaya",
+    "address": "Jl. Kedung Baruk No. 26",
+    "description": "Novotel Samator Surabaya is a sleek, tech-forward business property situated in the rising Eastern industrial corridor. Enjoy the outdoor pool deck, fully automated conference rooms, and vibrant lifestyle lobby bar."
+  },
+  {
+    "id": 59,
+    "name": "The Alana Hotel Solo",
+    "type": "hotel",
+    "city": "Solo",
+    "address": "Jl. Adi Sucipto No. 48, Colomadu",
+    "description": "The Alana Hotel Solo is a premier upscale hotel offering modern luxury rooted deeply in rich royal heritage. Enjoy the exquisite executive club floor, authentic traditional body massage treatments, and expansive indoor buffet."
+  },
+  {
+    "id": 60,
+    "name": "Mentigi Bay Dome Villas",
+    "type": "villa",
+    "city": "Lombok",
+    "address": "Jl. Raya Senggigi, Malaka",
+    "description": "Mentigi Bay Dome Villas is an architectural marvel featuring futuristic Greek-style dome villas carved right into the ocean cliffs. Enjoy the sweeping views of the Gili Islands, private cliffside pools, and custom speedboat island tours."
+  },
+  {
+    "id": 61,
+    "name": "Gili Eco Villas",
+    "type": "villa",
+    "city": "Lombok",
+    "address": "Gili Trawangan Nord",
+    "description": "Gili Eco Villas is a magnificent solar-powered island estate pioneering local recycling and green tourism. Enjoy the horse-drawn carriage tours, private marine turtle sanctuary access, and zero-waste organic restaurant."
+  },
+  {
+    "id": 62,
+    "name": "Radisson Golf Resort Batam",
+    "type": "hotel",
+    "city": "Batam",
+    "address": "Jl. Jendral Sudirman, Sukajadi",
+    "description": "Radisson Golf Resort Batam is a premium lifestyle hotel catering to golf enthusiasts and shopping weekenders. Enjoy the direct championship golf course access, covered family swimming pools, and high-floor sky panoramic bar."
+  },
+  {
+    "id": 63,
+    "name": "Sandi Kala Beach Villas",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Jl. Pantai Keramas, Gianyar",
+    "description": "Sandi Kala Beach Villas is a peaceful volcanic sand getaway perfect for pro surfers and wellness travelers. Enjoy the direct evening wave-watching decks, private beach barbecues, and organic tropical fruit orchards."
+  },
+  {
+    "id": 64,
+    "name": "The Alantara Sanur",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Jl. Tirta Ening No. 12, Sanur",
+    "description": "The Alantara Sanur is a cultural boutique jewel reflecting the artistic richness of Bali's oldest resort destination. Enjoy the classic wood carvings, cascading stone pool fountains, and holistic herbal wellness workshops."
+  },
+  {
+    "id": 65,
+    "name": "Kataria Hill Resort",
+    "type": "villa",
+    "city": "Banyuwangi",
+    "address": "Jl. Jambu, Licin, Ijen Crater",
+    "description": "Kataria Hill Resort is a misty mountain station ideally situated for adventurers trekking the world-famous Ijen Crater. Enjoy the hot spring spa pools, locally harvested organic coffee brewing stations, and spectacular valley sunrise views."
+  },
+  {
+    "id": 66,
+    "name": "Kelapa Luxury Villas",
+    "type": "villa",
+    "city": "Lombok",
+    "address": "西北, Gili Trawangan",
+    "description": "Kelapa Luxury Villas is an exclusive luxury complex hidden deep inside an old coconut plantation estate. Enjoy the absolute privacy of enclosed brick walls, private landscaped pools, and personal bicycle rentals."
+  },
+  {
+    "id": 67,
+    "name": "The Royal Surakarta Heritage",
+    "type": "hotel",
+    "city": "Solo",
+    "address": "Jl. Slamet Riyadi No. 6, Jeten",
+    "description": "The Royal Surakarta Heritage is a stunning MGallery collection property that brings the legendary Javanese batik culture to life. Enjoy the museum-like royal corridors, authentic vintage Javanese spa, and majestic traditional music lobby performances."
+  },
+  {
+    "id": 68,
+    "name": "Munduk Moding Plantation Nature Resort",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Jl. Raya Munduk, Banjar",
+    "description": "Munduk Moding Plantation is a dreamy eco-luxury resort famous for its sky-high pool floating above the mountain clouds. Enjoy the extensive premium organic coffee farm tours, bonfire stargazing, and private luxury eco-cabins."
+  },
+  {
+    "id": 69,
+    "name": "Java Banana Bromo Resort",
+    "type": "hotel",
+    "city": "Probolinggo",
+    "address": "Jl. Raya Bromo, Tosari",
+    "description": "Java Banana Bromo Resort is a boutique mountain boutique estate tailored perfectly for active volcanic wilderness explorers. Enjoy the high-altitude art photography gallery, cozy premium fleece blankets, and panoramic volcano view cafés."
+  },
+  {
+    "id": 70,
+    "name": "Amarta Beach Cottages",
+    "type": "hotel",
+    "city": "Bali",
+    "address": "Jl. Pantai Tabuan, Tabanan",
+    "description": "Amarta Beach Cottages is a peaceful seaside sanctuary surrounded by emerald green rice paddies and crashing ocean waves. Enjoy the private ocean-facing yoga lawns, sunset traditional seafood grills, and charming antique wood cottages."
+  },
+  {
+    "id": 71,
+    "name": "Samabe Bali Suites & Villas",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Jl. Pura Barong-Barong Sawangan, Nusa Dua",
+    "description": "Samabe Bali Suites & Villas is an ultra-luxury all-inclusive cliff resort overlooking a gorgeous turquoise ocean reef. Enjoy the private beach cave romantic dining, complimentary luxury non-motorized watersports, and 24-hour butler services."
+  },
+  {
+    "id": 72,
+    "name": "Khas Parapat Hotel",
+    "type": "hotel",
+    "city": "Toba",
+    "address": "Jl. Sisingamangaraja No. 1, Parapat",
+    "description": "Khas Parapat Hotel is a historic lakeside property boasting direct scenic views of the magnificent Lake Toba. Enjoy the private sandy lake beach access, traditional Batak musical dining nights, and exciting ferry cruise excursions."
+  },
+  {
+    "id": 73,
+    "name": "Inna Tretes Hotel",
+    "type": "hotel",
+    "city": "Pasuruan",
+    "address": "Jl. Pesanggrahan No. 2, Prigen",
+    "description": "Inna Tretes Hotel is a historic high-altitude property providing a relaxing, family-friendly cool mountain escape. Enjoy the classic outdoor tennis courts, refreshing mountain spring water swimming pool, and heritage Javanese architecture."
+  },
+  {
+    "id": 74,
+    "name": "Sopo Toba Resort",
+    "type": "hotel",
+    "city": "Samosir",
+    "address": "Jl. Raya Tomok, Ambarita",
+    "description": "Sopo Toba Resort is a beautiful lakeside retreat situated peacefully right on the historic Samosir Island. Enjoy the breathtaking sunrises over the lake caldera, traditional Batak house accommodations, and direct private boat docking facilities."
+  },
+  {
+    "id": 75,
+    "name": "Warna Gili Resort",
+    "type": "villa",
+    "city": "Lombok",
+    "address": "Gili Trawangan Beachfront",
+    "description": "Warna Gili Resort is a bright, energetic beach property putting you steps away from world-famous island diving reefs. Enjoy the on-site PADI certified diving master courses, beachfront seafood restaurant, and colorful tropical room accents."
+  },
+  {
+    "id": 76,
+    "name": "Bintang Flores Hotel",
+    "type": "villa",
+    "city": "Labuan Bajo",
+    "address": "Jl. Pantai Pede No. 2, Labuan Bajo",
+    "description": "Bintang Flores Hotel is a beautiful tropical garden beachfront property ideal for family diving holiday makers. Enjoy the expansive beachfront dive-prep swimming pool, private boat jetty access, and international buffet spreads."
+  },
+  {
+    "id": 77,
+    "name": "Puri Sebali Resort",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Jl. Raya Sebali, Ubud, Gianyar",
+    "description": "Puri Sebali Resort is a luxurious boutique sanctuary nestled peacefully among vibrant emerald green Ubud rice terraces. Enjoy the floating breakfast experiences, traditional Balinese wooden design elements, and complementary village trekking guides."
+  },
+  {
+    "id": 78,
+    "name": "Swiss-Belhotel Harbour Bay",
+    "type": "hotel",
+    "city": "Batam",
+    "address": "Jl. Duyung, Sei Jodoh, Batu Ampar",
+    "description": "Swiss-Belhotel Harbour Bay is a premium city hotel directly integrated into Batam's premier international ferry terminal. Enjoy the upscale international seafood buffet, modern business centers, and relaxing rooftop reflexology spas."
+  },
+  {
+    "id": 79,
+    "name": "Pondok Sari Beach Resort",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Pemuteran Beach, Gerokgak",
+    "description": "Pondok Sari Beach Resort is a peaceful hidden jewel showcasing classical architecture on a quiet northern black sand coast. Enjoy the bio-rock artificial reef snorkeling access, expansive open-air lotus pond spas, and antique wood styling."
+  },
+  {
+    "id": 80,
+    "name": "Hotel Santika Premiere Malang",
+    "type": "hotel",
+    "city": "Malang",
+    "address": "Jl. Letjen Sutoyo No. 79",
+    "description": "Hotel Santika Premiere Malang is an elegant city hotel blending warm local hospitality with high international standards. Enjoy the large tropical central swimming pool, delicious local traditional cuisine breakfast, and upscale modern rooms."
+  },
+  {
+    "id": 81,
+    "name": "Amarsvati Luxury Resort",
+    "type": "hotel",
+    "city": "Lombok",
+    "address": "Jl. Raya Malaka, Pemenang",
+    "description": "Amarsvati Luxury Resort is a grand high-rise condotel destination boasting expansive panoramic sunset ocean views. Enjoy the magnificent rooftop infinity pool lounge, private white sand beach club, and tech-forward room controls."
+  },
+  {
+    "id": 82,
+    "name": "Katamaran Resort Senggigi",
+    "type": "hotel",
+    "city": "Lombok",
+    "address": "Jl. Raya Senggigi, Mangsit",
+    "description": "Katamaran Resort Senggigi is a romantic beachfront property famous for its pristine glass-walled beachfront swimming pool. Enjoy the luxury beachfront wedding glass pavilions, specialized sunset outdoor candlelit dinners, and open-air beachfront bars."
+  },
+  {
+    "id": 83,
+    "name": "The Westin Resort Nusa Dua",
+    "type": "hotel",
+    "city": "Bali",
+    "address": "Kawasan Pariwisata Nusa Dua BTDC Lot N3",
+    "description": "The Westin Resort Nusa Dua is a world-class wellness family holiday icon facing directly onto pristine white sands. Enjoy the signature ultra-comfortable Heavenly Beds, large saltwater family lagoons, and award-winning kids activity club."
+  },
+  {
+    "id": 84,
+    "name": "Saba Luxury Villas",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Jl. Subak Sari, Banjar Berawa, Canggu",
+    "description": "Saba Luxury Villas is an exclusive minimalist villa compound designed for absolute peace near popular surfing breaks. Enjoy the custom state-of-the-art fully equipped kitchens, large private green gardens, and dedicated master chef catering services."
+  },
+  {
+    "id": 85,
+    "name": " Plataran Heritage Borobudur",
+    "type": "villa",
+    "city": "Magelang",
+    "address": "Dusun Tanjungan, Borobudur",
+    "description": "Plataran Heritage Borobudur is a majestic luxury hotel exuding elegant vintage colonial vibes amid Menoreh hills. Enjoy the massive classic courtyard swimming pool, traditional afternoon high-tea service, and upscale historical themed suites."
+  },
+  {
+    "id": 86,
+    "name": "Sora Sky Villas",
+    "type": "villa",
+    "city": "Bandung",
+    "address": "Jl. Cigadung Raya Barat No. 5",
+    "description": "Sora Sky Villas is a unique contemporary designer villa offering panoramic city-light views from a breezy hill peak. Enjoy the outdoor private jacuzzi deck, minimalist modern interior design, and expansive cozy rooftop barbecue lawns."
+  },
+  {
+    "id": 87,
+    "name": "Tugu Hotel Blitar",
+    "type": "hotel",
+    "city": "Blitar",
+    "address": "Jl. Merdeka No. 70",
+    "description": "Tugu Hotel Blitar is an enchanting colonial heritage mansion celebrating the romantic legend of early East Javanese history. Enjoy the private guided presidential monument tours, antique imperial furniture decorations, and traditional local snack festivals."
+  },
+  {
+    "id": 88,
+    "name": "Novotel Bangka Hotel",
+    "type": "hotel",
+    "city": "Pangkalpinang",
+    "address": "Jl. Soekarno Hatta No. 4, Dul",
+    "description": "Novotel Bangka Hotel is a premier choice providing top-tier modern accommodations for business travelers visiting the islands. Enjoy the expansive grand ballroom facilities, fully equipped health fitness center, and large central outdoor pool."
+  },
+  {
+    "id": 89,
+    "name": "Puri Dajuma Beach Eco-Resort",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Pekutatan, West Bali, Jembrana",
+    "description": "Puri Dajuma Beach Eco-Resort is a traditional seaside haven offering spectacular views of wild, untouched western surf coasts. Enjoy the organic oceanfront spa therapies, traditional Balinese sailing boat trips, and beautiful black sand sunset walks."
+  },
+  {
+    "id": 90,
+    "name": "Aston Bojonegoro City Hotel",
+    "type": "hotel",
+    "city": "Bojonegoro",
+    "address": "Jl. MH. Thamrin No. 100",
+    "description": "Aston Bojonegoro City Hotel is a contemporary smart property designed to provide business luxury in East Java. Enjoy the vibrant modern coffee shop menus, smart high-speed working business lounges, and relaxing outdoor pool decks."
+  },
+  {
+    "id": 91,
+    "name": "Hotel Santika Premiere Banyuwangi",
+    "type": "hotel",
+    "city": "Banyuwangi",
+    "address": "Jl. Letjen S. Parman No. 115",
+    "description": "Hotel Santika Premiere Banyuwangi is an elegant modern gateway hotel showcasing local Osing cultural architectural accents. Enjoy the high-speed transit travel assistance desk, large central family lap pool, and traditional local breakfast selections."
+  },
+  {
+    "id": 92,
+    "name": "Ketapang Indah Hotel",
+    "type": "hotel",
+    "city": "Banyuwangi",
+    "address": "Jl. Gatot Subroto No. 56, Klatak",
+    "description": "Ketapang Indah Hotel is a sprawling coconut garden resort located right on the edge of the scenic Bali Strait coast. Enjoy the massive open-air traditional wooden dining pavilions, outdoor family playground parks, and regular Ijen volcano tour updates."
+  },
+  {
+    "id": 93,
+    "name": "Kupu Kupu Barong Villas",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Jl. Raya Kedewatan, Ubud",
+    "description": "Kupu Kupu Barong Villas is a legendary romantic destination famous for pioneering the luxury Ayung river-valley view concepts. Enjoy the unique treehouse spa treatments by L'Occitane, iconic private floating dining decks, and traditional Balinese hospitality."
+  },
+  {
+    "id": 94,
+    "name": "Sheraton Surabaya Hotel",
+    "type": "hotel",
+    "city": "Surabaya",
+    "address": "Jl. Embong Malang No. 25-31",
+    "description": "Sheraton Surabaya Hotel is a premier luxury landmark directly connected onto the iconic Tunjungan Plaza mega mall. Enjoy the resort-style lagoon swimming pool, high-floor executive sky privileges, and award-winning international pastry bars."
+  },
+  {
+    "id": 95,
+    "name": " Ombak Sunset Resort",
+    "type": "villa",
+    "city": "Lombok",
+    "address": "Gili Trawangan Island, West Beach",
+    "description": "Ombak Sunset Resort is a famous island getaway home to the iconic ocean swings set against spectacular sunset backdrops. Enjoy the large island-style freeform pool, beachfront sunset cocktail bars, and traditional Javanese bungalow rooms."
+  },
+  {
+    "id": 96,
+    "name": "The Alana Hotel Yogyakarta",
+    "type": "hotel",
+    "city": "Yogyakarta",
+    "address": "Jl. Palagan Tentara Pelajar No. 21",
+    "description": "The Alana Hotel Yogyakarta is a sleek contemporary high-rise business hub situated in the premium northern city limits. Enjoy the elegant indoor spa systems, high-capacity modern convention centers, and refreshing outdoor family pool decks."
+  },
+  {
+    "id": 97,
+    "name": "Hotel Indigo Bali Seminyak",
+    "type": "hotel",
+    "city": "Bali",
+    "address": "Jl. Camplung Tanduk No. 10, Seminyak",
+    "description": "Hotel Indigo Bali Seminyak is a vibrant design hotel effortlessly mixing creative modern arts and classic local street styles. Enjoy the custom artisan room cocktail bars, multiple unique designer pool clubs, and direct popular beach access."
+  },
+  {
+    "id": 98,
+    "name": "Suwat Jungle Villas",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Jl. Gianyar-Suwat, Gianyar",
+    "description": "Suwat Jungle Villas is an exclusive hidden sanctuary perfect for nature lovers searching for an authentic green retreat. Enjoy the scenic private valley bamboo decks, outdoor natural stone pools, and organic farm breakfast options."
+  },
+  {
+    "id": 99,
+    "name": "Jeeva Beloam Beach Camp",
+    "type": "hotel",
+    "city": "Lombok",
+    "address": "Jl. Pantai Beloam, Jerowaru",
+    "description": "Jeeva Beloam Beach Camp is a unique luxury eco-camp set inside an isolated sand dune cove on a wild coast. Enjoy the off-the-grid wooden fisherman beach cabins, private sand desert stargazing, and fresh daily caught seafood dining."
+  },
+  {
+    "id": 100,
+    "name": "The Shalimar Boutique Hotel",
+    "type": "hotel",
+    "city": "Malang",
+    "address": "Jl. Cerme No. 16, Oro-oro Dowo",
+    "description": "The Shalimar Boutique Hotel is a beautifully preserved heritage hotel showcasing premium Dutch colonial 1930s luxury styles. Enjoy the historic library card lounge, tranquil garden swimming pool, and premium fine dining colonial menus."
+  },
+  {
+    "id": 101,
+    "name": "Four Seasons Kyoto Villas",
+    "type": "villa",
+    "city": "Kyoto",
+    "address": "445 Myohoin Maekawacho, Higashiyama Ward",
+    "description": "Four Seasons Kyoto Villas is a majestic sanctuary nestled around an 800-year-old historic pond garden. Enjoy the traditional tea house rituals, beautiful seasonal cherry blossom views, and modern luxury spa amenities."
+  },
+  {
+    "id": 102,
+    "name": "The Ritz-Carlton Tokyo",
+    "type": "hotel",
+    "city": "Tokyo",
+    "address": "9-7-1 Akasaka, Minato-ku, Tokyo Midtown",
+    "description": "The Ritz-Carlton Tokyo is a spectacular high-rise hotel offering breathtaking panoramic views of Mount Fuji and Tokyo Tower. Enjoy the Michelin-starred dining options, 45th-floor sky lounge, and state-of-the-art fitness club."
+  },
+  {
+    "id": 103,
+    "name": "InterContinental Paris Le Grand",
+    "type": "villa",
+    "city": "Paris",
+    "address": "2 Rue Scribe, 9th Arrondissement",
+    "description": "InterContinental Paris Le Grand is an iconic landmark showcasing historic Napoleonic grandeur and Parisian sophistication. Enjoy the famous Café de la Paix dining, elegant glass-roofed winter garden, and luxury beauty treatments."
+  },
+  {
+    "id": 104,
+    "name": "Swiss Chalet Edelweiss",
+    "type": "villa",
+    "city": "Zermatt",
+    "address": "Auf der Ried 12, Zermatt Village",
+    "description": "Swiss Chalet Edelweiss is a charming mountain retreat perfectly framed by the majestic snow-capped Matterhorn peak. Enjoy the cozy wood-burning fireplaces, premium ski-in access, and traditional Swiss fondue dining experiences."
+  },
+  {
+    "id": 105,
+    "name": "Marina Bay Sands Hotel",
+    "type": "hotel",
+    "city": "Singapore",
+    "address": "10 Bayfront Avenue, Marina Bay",
+    "description": "Marina Bay Sands Hotel is a world-famous architectural icon changing the skyline of modern city entertainment. Enjoy the legendary rooftop infinity pool, expansive high-end luxury shopping mall, and spectacular laser light shows."
+  },
+  {
+    "id": 106,
+    "name": "Santorini Caldera Cliff Villas",
+    "type": "villa",
+    "city": "Santorini",
+    "address": "Oia Cliffside Walk, Santorini Island",
+    "description": "Santorini Caldera Cliff Villas is an exquisite whitewashed escape boasting unmatched dramatic Aegean Sea sunset views. Enjoy the private cliffhanging infinity pools, fresh Mediterranean cave dining, and iconic blue-dome photo access."
+  },
+  {
+    "id": 107,
+    "name": "The Plaza Hotel New York",
+    "type": "hotel",
+    "city": "New York",
+    "address": "768 5th Avenue, Central Park South",
+    "description": "The Plaza Hotel New York is a timeless luxury institution set right next to the historic Central Park paths. Enjoy the famous Palm Court afternoon tea, lavish gold-accented rooms, and premium personal butler service."
+  },
+  {
+    "id": 108,
+    "name": "Burj Al Arab Jumeirah",
+    "type": "villa",
+    "city": "Dubai",
+    "address": "Jumeirah Beach Road, Um Suqeim",
+    "description": "Burj Al Arab Jumeirah is a breathtaking sail-shaped marvel widely regarded as one of the most luxurious hotels ever. Enjoy the 24-karat gold leaf interiors, private man-made beach terrace, and premium helicopter arrival pad."
+  },
+  {
+    "id": 109,
+    "name": "Villa d'Este Lake Como",
+    "type": "villa",
+    "city": "Lake Como",
+    "address": "Via Regina 40, Cernobbio",
+    "description": "Villa d'Este Lake Como is a legendary renaissance palace surrounded by twenty-five acres of magnificent royal gardens. Enjoy the unique floating swimming pool on the lake, private boat docks, and classical old-world elegance."
+  },
+  {
+    "id": 110,
+    "name": "Shangri-La The Shard",
+    "type": "hotel",
+    "city": "London",
+    "address": "31 St Thomas Street, London Bridge",
+    "description": "Shangri-La The Shard is a stunning architectural hotel occupying the highest floors of Western Europe's tallest skyscraper. Enjoy the spectacular floor-to-ceiling river views, highest hotel infinity pool, and premium Asian-inspired hospitality."
+  },
+  {
+    "id": 111,
+    "name": "Mandarin Oriental Bangkok",
+    "type": "villa",
+    "city": "Bangkok",
+    "address": "48 Oriental Avenue, Chao Phraya River",
+    "description": "Mandarin Oriental Bangkok is a historic riverside oasis celebrated for decades for its legendary oriental luxury standards. Enjoy the private teakwood shuttle boat transfers, award-winning river spa, and world-class fine dining terraces."
+  },
+  {
+    "id": 112,
+    "name": "The Venetian Resort",
+    "type": "villa",
+    "city": "Las Vegas",
+    "address": "3355 Las Vegas Boulevard South",
+    "description": "The Venetian Resort is a grand vibrant destination recreating the historic romance and canals of classical Venice. Enjoy the indoor gondola rides down shopping streets, massive casino entertainment floors, and premium all-suite rooms."
+  },
+  {
+    "id": 113,
+    "name": "Amangiri Desert Resort",
+    "type": "villa",
+    "city": "Utah",
+    "address": "1 Kayenta Road, Canyon Point",
+    "description": "Amangiri Desert Resort is a breathtaking minimalist sanctuary hidden deep inside the dramatic red-rock canyon country. Enjoy the iconic desert pool built around rock formations, slot canyon tours, and stargazing pavilion setups."
+  },
+  {
+    "id": 114,
+    "name": "Maldives Overwater Bungalows",
+    "type": "villa",
+    "city": "Maldives",
+    "address": "Ba Atoll, Private Island Lagoon",
+    "description": "Maldives Overwater Bungalows is a dreamy island paradise floating above crystal clear turquoise coral lagoons. Enjoy the direct private lagoon steps, glass-bottom floor lookouts, and romantic private overwater netting lounges."
+  },
+  {
+    "id": 115,
+    "name": "The Savoy London",
+    "type": "hotel",
+    "city": "London",
+    "address": "Strand, London WC2R 0EZ",
+    "description": "The Savoy London is an iconic glamorous hotel boasting rich history and unparalleled luxury next to the River Thames. Enjoy the world-famous American Bar cocktail programs, classic afternoon tea lounges, and Edwardian design details."
+  },
+  {
+    "id": 116,
+    "name": "Phuket Pavilions Villa",
+    "type": "villa",
+    "city": "Phuket",
+    "address": "31/1 Moo 6, Cherngtalay, Thalang",
+    "description": "Phuket Pavilions Villa is a romantic clifftop hideaway overlooking the serene sapphire waters of the Andaman Sea. Enjoy the massive private hill infinity pools, gourmet hilltop open-air pavilions, and holistic luxury spa paths."
+  },
+  {
+    "id": 117,
+    "name": "Cappadocia Cave Resort",
+    "type": "villa",
+    "city": "Cappadocia",
+    "address": "Tekelli Mah. Goreme Cad. Uchisar",
+    "description": "Cappadocia Cave Resort is an extraordinary rock estate offering unparalleled views of the iconic hot air balloon valleys. Enjoy the authentic stone-carved luxury suites, subterranean thermal spa baths, and sunset panoramic wine decks."
+  },
+  {
+    "id": 118,
+    "name": "Hotel Atlantis The Palm",
+    "type": "hotel",
+    "city": "Dubai",
+    "address": "Crescent Road, The Palm Jumeirah",
+    "description": "Hotel Atlantis The Palm is a spectacular oceanfront palace redefining grand family holiday entertainment concepts. Enjoy the massive Aquaventure waterpark access, breathtaking indoor lost-city aquariums, and underwater luxury dining options."
+  },
+  {
+    "id": 119,
+    "name": "The Fullerton Hotel",
+    "type": "hotel",
+    "city": "Singapore",
+    "address": "1 Fullerton Square, Downtown Core",
+    "description": "The Fullerton Hotel is a grand heritage masterpiece beautifully transformed from a historic neo-classical post office. Enjoy the infinity pool overlooking Singapore river, premium neo-classical afternoon tea, and prime national monument heritage tours."
+  },
+  {
+    "id": 120,
+    "name": "Soneva Jani Luxury Villas",
+    "type": "villa",
+    "city": "Maldives",
+    "address": "Medhufaru Island, Noonu Atoll",
+    "description": "Soneva Jani Luxury Villas is an incredible sustainable playground featuring massive water slides going directly into the sea. Enjoy the retractable master bedroom stargazing roofs, outdoor overwater cinema, and premium organic garden paths."
+  },
+  {
+    "id": 121,
+    "name": "Kakslauttanen Arctic Resort",
+    "type": "villa",
+    "city": "Saariselka",
+    "address": "Kiilopääntie 9, Lapland Arctic",
+    "description": "Kakslauttanen Arctic Resort is a world-famous winter wonderland destination featuring unique glass igloo cabins. Enjoy the unparalleled overnight Northern Lights views from your bed, authentic smoke saunas, and reindeer ice-sledding safaris."
+  },
+  {
+    "id": 122,
+    "name": "The Langham Sydney",
+    "type": "hotel",
+    "city": "Sydney",
+    "address": "89-113 Kent Street, The Rocks",
+    "description": "The Langham Sydney is an elegant boutique property offering peaceful luxury near the bustling Sydney Harbour lanes. Enjoy the beautiful star-lit indoor swimming pool, premium day spa services, and signature British afternoon tea rooms."
+  },
+  {
+    "id": 123,
+    "name": "Fairmont Chateau Lake Louise",
+    "type": "villa",
+    "city": "Banff",
+    "address": "111 Lake Louise Drive, Alberta",
+    "description": "Fairmont Chateau Lake Louise is a majestic historic mountain resort bordering a world-famous emerald green glacial lake. Enjoy the scenic Canadian Rockies hiking trails, guided winter ice-skating, and panoramic mountain lake view windows."
+  },
+  {
+    "id": 124,
+    "name": "Park Hyatt Sydney",
+    "type": "hotel",
+    "city": "Sydney",
+    "address": "7 Hickson Road, The Rocks",
+    "description": "Park Hyatt Sydney is a premier waterfront harbor hotel sitting directly between the Opera House and Harbour Bridge. Enjoy the premium heated rooftop pool deck, personalized round-the-clock butler help, and harbor-front dining terraces."
+  },
+  {
+    "id": 125,
+    "name": "Belmond Hotel Caruso",
+    "type": "hotel",
+    "city": "Amalfi Coast",
+    "address": "Piazza San Giovanni del Toro 2, Ravello",
+    "description": "Belmond Hotel Caruso is a spectacular 11th-century palace set on a high cliff terrace above the Mediterranean Sea. Enjoy the famous cliff-edge heating infinity pool, historic frescoed hallways, and luxury sunset boat cruise services."
+  },
+  {
+    "id": 126,
+    "name": "Rosewood Hong Kong",
+    "type": "hotel",
+    "city": "Hong Kong",
+    "address": "Victoria Dockside, 18 Salisbury Road, TST",
+    "description": "Rosewood Hong Kong is a sleek ultra-modern vertical estate standing proudly on the vibrant Victoria Harbour waterfront. Enjoy the stunning harbor-view infinity pool, extensive art-driven dining choices, and premium wellness manor facilities."
+  },
+  {
+    "id": 127,
+    "name": "Banyan Tree Bangkok",
+    "type": "hotel",
+    "city": "hotel",
+    "address": "21/100 South Sathon Road, Bangkok",
+    "description": "Banyan Tree Bangkok is a sleek urban skyscraper hotel offering an iconic retreat from a bustling Asian capital. Enjoy the famous Vertigo 61st-floor rooftop open-air dining, holistic oriental spa paths, and spacious modern suites."
+  },
+  {
+    "id": 128,
+    "name": "The Peninsula Tokyo",
+    "type": "hotel",
+    "city": "Tokyo",
+    "address": "1-8-1 Yurakucho, Chiyoda-ku",
+    "description": "The Peninsula Tokyo is a majestic classic hotel positioned perfectly right across from the beautiful Imperial Palace gardens. Enjoy the custom vintage Rolls-Royce airport transfers, authentic Japanese dining arts, and luxury tech-integrated rooms."
+  },
+  {
+    "id": 129,
+    "name": "W Barcelona Sail Hotel",
+    "type": "hotel",
+    "city": "Barcelona",
+    "address": "Placa Rosa Del Vents 1, Barceloneta",
+    "description": "W Barcelona Sail Hotel is a striking avant-garde landmark designed like a giant glass sail directly on the beach. Enjoy the trendy panoramic wet-deck pool parties, 26th-floor sky cocktail club, and modern Catalan beach dining."
+  },
+  {
+    "id": 130,
+    "name": "Six Senses Ibiza Villas",
+    "type": "villa",
+    "city": "Ibiza",
+    "address": "Cami de sa Torre 20, Cala Xarraca",
+    "description": "Six Senses Ibiza Villas is a stunning sustainable resort dedicated to wellness, live music, and organic island living. Enjoy the cliffhanging yoga sunset pavilions, state-of-the-art music recording lounges, and farm-to-table culinary experiences."
+  },
+  {
+    "id": 131,
+    "name": "The Peninsula Hong Kong",
+    "type": "hotel",
+    "city": "Hong Kong",
+    "address": "Salisbury Road, Tsim Sha Tsui, Kowloon",
+    "description": "The Peninsula Hong Kong is a legendary grand heritage icon known worldwide as the Grande Dame of the Far East. Enjoy the spectacular Roman-style indoor pool, traditional high lobby afternoon teas, and custom fleet of green luxury cars."
+  },
+  {
+    "id": 132,
+    "name": "Claridge's Luxury Hotel",
+    "type": "hotel",
+    "city": "London",
+    "address": "Brook Street, Mayfair, London W1K 4HR",
+    "description": "Claridge's Luxury Hotel is an art-deco boutique masterpiece radiating royal elegance in the center of fashion districts. Enjoy the historic British cocktail salons, grand art-deco lobby styling, and premium bespoke shopping assistance."
+  },
+  {
+    "id": 133,
+    "name": "Aman Venice Luxury Palace",
+    "type": "villa",
+    "city": "Venice",
+    "address": "Palazzo Papadopoli, Calle Tiepolo 1364",
+    "description": "Aman Venice Luxury Palace is an exclusive regal estate filled with museum-quality museum rococo frescoes along Grand Canal. Enjoy the private hidden palace canal gardens, authentic wooden gondola docks, and elite Italian culinary arts."
+  },
+  {
+    "id": 134,
+    "name": "Raffles Hotel Singapore",
+    "type": "hotel",
+    "city": "Singapore",
+    "address": "1 Beach Road, Downtown Core",
+    "description": "Raffles Hotel Singapore is a world-renowned colonial icon where the legendary Singapore Sling cocktail was first created. Enjoy the historic white courtyard colonial verandas, premium personal butler care, and elite tropical garden paths."
+  },
+  {
+    "id": 135,
+    "name": "Keemala Bird's Nest Villas",
+    "type": "hotel",
+    "city": "Phuket",
+    "address": "10/88 Moo 6, Kamala, Kathu",
+    "description": "Keemala Bird's Nest Villas is a unique fantasy jungle property featuring luxury treehouses shaped like woven bird nests. Enjoy the private canopy-view plunge pools, organic holistic health treatments, and scenic hidden waterfall walking trails."
+  },
+  {
+    "id": 136,
+    "name": "Hotel de Paris Monte-Carlo",
+    "type": "hotel",
+    "city": "Monaco",
+    "address": "Place du Casino, 98000 Monaco",
+    "description": "Hotel de Paris Monte-Carlo is an ultra-glamorous palace property sitting directly next to the legendary casino square. Enjoy the world-famous Michelin three-star Alain Ducasse dining, historic grand wine cellars, and oceanfront wellness terraces."
+  },
+  {
+    "id": 137,
+    "name": "Singita Ebony Lodge",
+    "type": "villa",
+    "city": "Kruger National Park",
+    "address": "Sabi Sand Game Reserve, Kruger",
+    "description": "Singita Ebony Lodge is a spectacular luxury safari camp built under giant trees along a wild African river bank. Enjoy the daily open-top land rover wildlife safaris, private river-view plunge pools, and premium bush wine cellars."
+  },
+  {
+    "id": 138,
+    "name": "The St. Regis Maldives Vommuli",
+    "type": "hotel",
+    "city": "Maldives",
+    "address": "Vommuli Island, Dhaalu Atoll",
+    "description": "The St. Regis Maldives Vommuli is a breathtaking eco-architectural masterpiece inspired directly by beautiful manta ray shapes. Enjoy the massive whale-shark shaped sunset overwater bar, customized signature butler treatments, and premium ocean wellness spas."
+  },
+  {
+    "id": 139,
+    "name": "Hotel Cavo Tagoo Mykonos",
+    "type": "hotel",
+    "city": "Mykonos",
+    "address": "Chora, Mykonos Island, 84600",
+    "description": "Hotel Cavo Tagoo Mykonos is a glamorous barefoot-luxury paradise famous for its floating wooden bed pool lounges. Enjoy the stunning subterranean cave pools, vibrant cliffside DJ sunset bars, and modern minimalist Aegean design."
+  },
+  {
+    "id": 140,
+    "name": "One&Only Reethi Rah",
+    "type": "hotel",
+    "city": "Maldives",
+    "address": "North Male Atoll, Private Island",
+    "description": "One&Only Reethi Rah is an ultra-exclusive celebrity island favorite boasting twelve pristine private sand beaches. Enjoy the unique ocean-stretching infinity lap pools, private elite tennis academy trainers, and beachfront luxury villa bicycling."
+  },
+  {
+    "id": 141,
+    "name": "The Brando Eco Resort",
+    "type": "hotel",
+    "city": "Tahiti",
+    "address": "Tetiaroa Private Atoll, French Polynesia",
+    "description": "The Brando Eco Resort is a groundbreaking zero-carbon luxury island paradise once owned by Hollywood star Marlon Brando. Enjoy the sea-water air conditioning systems, pristine coral reef scientific sanctuary tours, and private beach dining."
+  },
+  {
+    "id": 142,
+    "name": "Mandarin Oriental Tokyo",
+    "type": "hotel",
+    "city": "Tokyo",
+    "address": "2-1-1 Nihonbashi Muromachi, Chuo-ku",
+    "description": "Mandarin Oriental Tokyo is a spectacular sky-high hotel offering award-winning luxury overlooking the historic Nihonbashi financial roots. Enjoy the unique sky cell counter dining, premium glass-walled corner bathroom tubs, and elite modern design lounges."
+  },
+  {
+    "id": 143,
+    "name": "Villa Magna Rosewood",
+    "type": "villa",
+    "city": "Madrid",
+    "address": "Paseo de la Castellana 22, Madrid",
+    "description": "Villa Magna Rosewood is an elegant urban oasis perfectly combining contemporary Spanish art styles and supreme upscale comfort. Enjoy the restorative Turkish bath house spas, premium local tapas tasting terraces, and elite central shopping access."
+  },
+  {
+    "id": 144,
+    "name": "Huka Lodge Luxury Retreat",
+    "type": "villa",
+    "city": "Taupo",
+    "address": "271 Huka Falls Road, Lake Taupo",
+    "description": "Huka Lodge Luxury Retreat is an legendary riverside paradise nestled within beautifully landscaped gardens next to rushing waterfalls. Enjoy the private outdoor riverside fireplaces, curated wild trout fishing trips, and exceptional fine dining programs."
+  },
+  {
+    "id": 145,
+    "name": " Conrad Bora Bora Nui",
+    "type": "villa",
+    "city": "Bora Bora",
+    "address": "BP 502 Vaitape, French Polynesia",
+    "description": "Conrad Bora Bora Nui is a blissful hillside overwater resort facing onto an endless blue lagoon reef horizon. Enjoy the unique hilltop panoramic sunset spas, custom glass-bottom overwater lounge nets, and direct motorized jet-ski island tours."
+  },
+  {
+    "id": 146,
+    "name": "Belmond Copacabana Palace",
+    "type": "hotel",
+    "city": "Rio de Janeiro",
+    "address": "Avenida Atlantica 1702, Copacabana",
+    "description": "Belmond Copacabana Palace is an iconic art-deco oceanfront palace standing proudly on the sand tracks of Copacabana beach. Enjoy the famous central high-society swimming pool, Michelin-starred pan-Asian culinary tracks, and historic celebrity guest corridors."
+  },
+  {
+    "id": 147,
+    "name": "The Tokyo Station Hotel",
+    "type": "hotel",
+    "city": "Tokyo",
+    "address": "1-9-1 Marunouchi, Chiyoda-ku",
+    "description": "The Tokyo Station Hotel is a beautiful historical monument located directly inside the magnificent classic red-brick central station vault. Enjoy the timeless European classical room architectures, top-floor vaulted breakfast lounges, and rich imperial palace proximity."
+  },
+  {
+    "id": 148,
+    "name": "Amanpulo Private Island",
+    "type": "hotel",
+    "city": "Palawan",
+    "address": "Pamalican Island, Sulu Sea",
+    "description": "Amanpulo Private Island is a dream tropical escape accessible exclusively via the resort's private twin-engine airplanes. Enjoy the immaculate white sand beach paths, private motorized golf-cart exploration, and world-class island reef snorkeling paths."
+  },
+  {
+    "id": 149,
+    "name": "Post Ranch Inn",
+    "type": "hotel",
+    "city": "Big Sur",
+    "address": "47900 Highway 1, California Coast",
+    "description": "Post Ranch Inn is an extraordinary adults-only clifftop hideaway floating high above the dramatic crashing Pacific Ocean waves. Enjoy the cliff-edge heated basking infinity pools, architectural eco-friendly wood cabins, and magnificent stargazing telescope decks."
+  },
+  {
+    "id": 150,
+    "name": "Burj Al Arab Ocean Suites",
+    "type": "hotel",
+    "city": "Dubai",
+    "address": "Jumeirah Beach Isolated Marina",
+    "description": "Burj Al Arab Ocean Suites is an elite extension providing ultra-luxurious duplex suites over water with infinity terrace pools. Enjoy the custom private master bar tenders, private luxury yacht cruise transfers, and individual dynamic butler help."
+  },
+  {
+    "id": 151,
+    "name": "The Langham London",
+    "type": "hotel",
+    "city": "London",
+    "address": "1C Portland Place, Regent Street",
+    "description": "The Langham London is a grand historic institution widely celebrated as Europe's first grand luxury hotel destination. Enjoy the award-winning underground vault pool spa, elite modern British tavern concepts, and upscale chic shopping assistance."
+  },
+  {
+    "id": 152,
+    "name": "Amanusa Hilltop Villas",
+    "type": "villa",
+    "city": "Phuket",
+    "address": "Pansea Beach High Ridge, Phuket",
+    "description": "Amanusa Hilltop Villas is an exclusive retreat offering ultra-private luxury villas framed beautifully by native tropical forest canopies. Enjoy the private elevated pool decks, custom authentic outdoor dining setups, and direct white sand beach club privileges."
+  },
+  {
+    "id": 153,
+    "name": "Badrutt's Palace Hotel",
+    "type": "hotel",
+    "city": "St. Moritz",
+    "address": "Via Serlas 27, Engadin Valley",
+    "description": "Badrutt's Palace Hotel is a legendary winter wonderland castle offering timeless high-society luxury since late 1890s. Enjoy the indoor alpine rock cavern pools, direct elite ski mountain cable access, and vibrant historical night club scene."
+  },
+  {
+    "id": 154,
+    "name": "The Peninsula Paris",
+    "type": "hotel",
+    "city": "Paris",
+    "address": "19 Avenue Kleber, 16th Arrondissement",
+    "description": "The Peninsula Paris is a magnificent neoclassical palace hotel located steps away from the iconic Arc de Triomphe monument. Enjoy the spectacular rooftop aviation themed restaurant, grand indoor marble pool vaults, and luxury tech-integrated chic suites."
+  },
+  {
+    "id": 155,
+    "name": "Six Senses Laamu Villas",
+    "type": "villa",
+    "city": "Malidves",
+    "address": "Laamu Atoll, Private Southern Lagoon",
+    "description": "Six Senses Laamu Villas is a spectacular remote island paradise dedicated to marine conservation and barefoot luxury living. Enjoy the beautiful overwater hammock relaxation systems, complimentary handmade ice cream bars, and incredible dolphin watching boat cruises."
+  },
+  {
+    "id": 156,
+    "name": "Four Seasons Bora Bora",
+    "type": "hotel",
+    "city": "Bora Bora",
+    "address": "BP 547 Motu Tehotu, Society Islands",
+    "description": "Four Seasons Bora Bora is a magnificent island sanctuary showcasing premium overwater architecture facing the majestic Mount Otemanu. Enjoy the inner lagoon marine wildlife snorkeling tracks, beachfront sunset cocktail bars, and premium private pool bungalows."
+  },
+  {
+    "id": 157,
+    "name": "Chalet Zermatt Peak",
+    "type": "villa",
+    "city": "Zermatt",
+    "address": "Triftweg 70, Zermatt Village Center",
+    "description": "Chalet Zermatt Peak is an award-winning ultra-luxury designer chalet offering unparalleled panoramic views across the valley floor. Enjoy the glass-roofed indoor-outdoor swimming pool systems, private wellness massage masters, and custom in-house luxury champagne bars."
+  },
+  {
+    "id": 158,
+    "name": "Nihi Ocean Edge Villas",
+    "type": "villa",
+    "city": "Phuket",
+    "address": "Kata Noi Beachfront High Ridge",
+    "description": "Nihi Ocean Edge Villas is a striking contemporary cliffside retreat designed to offer ultimate privacy and wave-watching access. Enjoy the sweeping panoramic infinity pool views, private outdoor rock shower zones, and fine dining cliff terraces."
+  },
+  {
+    "id": 159,
+    "name": "The Silo Hotel Cape Town",
+    "type": "villa",
+    "city": "Cape Town",
+    "address": "V&A Waterfront, Silo District",
+    "description": "The Silo Hotel Cape Town is an architectural masterpiece built directly inside a historic geometric grain elevator tower. Enjoy the glass pillowed window architecture layouts, rooftop pool overlooking Table Mountain, and massive private modern art collection."
+  },
+  {
+    "id": 160,
+    "name": "Rosewood Castiglion del Bosco",
+    "type": "hotel",
+    "city": "Tuscany",
+    "address": "Localita Castiglion del Bosco, Montalcino",
+    "description": "Rosewood Castiglion del Bosco is a spectacular 800-year-old country estate showcasing authentic Tuscan village luxury styles. Enjoy the private estate Brunello wine tasting cellars, historical cooking academy kitchens, and panoramic vineyard view pools."
+  },
+  {
+    "id": 161,
+    "name": "Amandari Jungle Resort",
+    "type": "villa",
+    "city": "Chiang Mai",
+    "address": "Mae Rim-Samoeng Old Road, Chiang Mai",
+    "description": "Amandari Jungle Resort is a peaceful northern mountain sanctuary reflecting traditional hill-tribe craftsmanship styles and nature. Enjoy the sweeping valley mist views, open-air organic massage pavilions, and curated ancient mountain temple excursions."
+  },
+  {
+    "id": 162,
+    "name": "Mandarin Oriental Milan",
+    "type": "hotel",
+    "city": "Milan",
+    "address": "Via Andegari 9, Brera District",
+    "description": "Mandarin Oriental Milan is a chic fashion hotel beautifully bridging four elegant 18th-century local green palaces. Enjoy the fine dining concepts by Antonio Guida, award-winning subterranean pool spas, and prime high-end fashion avenue proximity."
+  },
+  {
+    "id": 163,
+    "name": "The St. Regis New York",
+    "type": "hotel",
+    "city": "New York",
+    "address": "Two East 55th Street, 5th Avenue",
+    "description": "The St. Regis New York is a legendary historic landmark radiating unmatched Beaux-Arts luxury and Manhattan high society traditions. Enjoy the world-famous King Cole Bar cocktail programs, iconic round-the-clock signature butler treatment, and silk wall detailing."
+  },
+  {
+    "id": 164,
+    "name": "Soneva Fushi Forest Villas",
+    "type": "villa",
+    "city": "Maldives",
+    "address": "Kunfunadhoo Island, Baa Atoll",
+    "description": "Soneva Fushi Forest Villas is an incredible island jungle hideaway promoting premium sustainable slow-life luxury concepts. Enjoy the massive multi-story treehouse family playgrounds, private beach stargazing telescopes, and zero-waste glass blowing studios."
+  },
+  {
+    "id": 165,
+    "name": "Belmond Grand Hotel Timeo",
+    "type": "villa",
+    "city": "Sicily",
+    "address": "Via Teatro Greco 59, Taormina",
+    "description": "Belmond Grand Hotel Timeo is an extraordinary cliffside palace property sitting right next to the ancient historic Greek Amphitheater. Enjoy the spectacular views of Mount Etna volcano, dramatic Mediterranean garden walkways, and classic Sicilian fine dining."
+  },
+  {
+    "id": 166,
+    "name": "Villa Serbelloni Lake Como",
+    "type": "villa",
+    "city": "Lake Como",
+    "address": "Via Roma 1, Bellagio Center",
+    "description": "Villa Serbelloni Lake Como is a magnificent neoclassical palace hotel commanding prime views of the majestic lake junction. Enjoy the historic crystal chandelier grand ballrooms, lakeside terrace swimming pools, and private wooden speed boat excursions."
+  },
+  {
+    "id": 167,
+    "name": "Four Seasons Milan Palace",
+    "type": "hotel",
+    "city": "Milan",
+    "address": "Via Gesu 6/8, Quadrilatero District",
+    "description": "Four Seasons Milan Palace is an exquisite boutique hotel beautifully transformed from an authentic 15th-century historical convent. Enjoy the peaceful historic courtyard garden cafes, luxury vault swimming pools, and premium high-fashion shopping assistance."
+  },
+  {
+    "id": 168,
+    "name": "One&Only Wolgan Valley",
+    "type": "villa",
+    "city": "Blue Mountains",
+    "address": "2600 Wolgan Road, New South Wales",
+    "description": "One&Only Wolgan Valley is an extraordinary ultra-luxury eco-retreat set across a vast protected wildlife conservation wilderness. Enjoy the private indoor-outdoor heating pool cabins, guided wild kangaroo safari trips, and premium regional farm dining."
+  },
+  {
+    "id": 169,
+    "name": "Park Hyatt Paris Vendome",
+    "type": "hotel",
+    "city": "Paris",
+    "address": "5 Rue de la Paix, 2nd Arrondissement",
+    "description": "Park Hyatt Paris Vendome is a sleek contemporary palace property fusing high classic architecture and modern design arts. Enjoy the open-air central chef courtyard cafes, Michelin-starred culinary programs, and premium relaxation stone spas."
+  },
+  {
+    "id": 170,
+    "name": "Raffles Grand Hotel d'Angkor",
+    "type": "hotel",
+    "city": "Siem Reap",
+    "address": "1 Vithei Charles de Gaulle",
+    "description": "Raffles Grand Hotel d'Angkor is an iconic heritage property exuding timeless French-Khmer grandeur near ancient wonders. Enjoy the historic cage elevator systems, massive iconic central lap pool, and premium guided Angkor Wat sunset tours."
+  },
+  {
+    "id": 171,
+    "name": "Al Maha Desert Luxury Resort",
+    "type": "villa",
+    "city": "Dubai",
+    "address": "Dubai Desert Conservation Reserve",
+    "description": "Al Maha Desert Luxury Resort is an extraordinary dune paradise styled beautifully after classic Bedouin nomadic tent architectures. Enjoy the private sand dune infinity pools, guided falconry performance workshops, and sunset camel tracking adventures."
+  },
+  {
+    "id": 172,
+    "name": "The Ritz Paris Luxury Hotel",
+    "type": "hotel",
+    "city": "Paris",
+    "address": "15 Place Vendome, 1st Arrondissement",
+    "description": "The Ritz Paris Luxury Hotel is a world-famous legendary institution widely regarded as the ultimate pinnacle of French high luxury. Enjoy the historic Coco Chanel themed suites, grand glass-roofed pool galleries, and legendary Hemingway cocktail bar lounges."
+  },
+  {
+    "id": 173,
+    "name": "Como Shambhala Estate",
+    "type": "villa",
+    "city": "Bali",
+    "address": "Banjar Begawan, Payangan, Ubud",
+    "description": "Como Shambhala Estate is a world-renowned wellness sanctuary dedicated to holistic health paths and deep mental relaxation. Enjoy the organic spring water vital pools, specialized personal wellness master consulting, and outdoor jungle fitness rigs."
+  },
+  {
+    "id": 174,
+    "name": "Six Senses Douro Valley",
+    "type": "villa",
+    "city": "Porto",
+    "address": "Quinta de Vale de Abraao, Samodres",
+    "description": "Six Senses Douro Valley is a beautifully renovated 19th-century manor house showcasing spectacular river valley vineyard views. Enjoy the custom wine tasting interactive labs, organic heated indoor spa pools, and panoramic outdoor river decks."
+  },
+  {
+    "id": 175,
+    "name": "Amanzoe Luxury Villa Ridge",
+    "type": "villa",
+    "city": "Peloponnese",
+    "address": "Agios Panteleimonas, Kranidi",
+    "description": "Amanzoe Luxury Villa Ridge is a breathtaking hilltop acropolis property offering panoramic views across the Aegean Sea coasts. Enjoy the grand classical stone amphitheaters, private beach club speedboat connectivity, and individual panoramic pool villas."
+  },
+  {
+    "id": 176,
+    "name": "The Ritz-Carlton Kyoto",
+    "type": "hotel",
+    "city": "Kyoto",
+    "address": "Kamogawa Nijo-Ohashi Hotori, Nakagyo-ku",
+    "description": "The Ritz-Carlton Kyoto is a stunning waterfront property blending timeless local Meiji design arts and high international comfort. Enjoy the beautiful Zen waterfall viewpoints, premium traditional multi-course Kaiseki dinners, and custom local craft workshops."
+  },
+  {
+    "id": 177,
+    "name": "Banyan Tree Seychelles Villas",
+    "type": "hotel",
+    "city": "Mahe",
+    "address": "Anse Intendance, Mahe Island",
+    "description": "Banyan Tree Seychelles Villas is a spectacular beach paradise showcasing breathtaking views of granite boulder tropical bays. Enjoy the private cliffside ocean infinity pools, traditional Creole plantation architecture design, and premium beachside bars."
+  },
+  {
+    "id": 178,
+    "name": "Anantara Golden Triangle Resort",
+    "type": "villa",
+    "city": "Chiang Rai",
+    "address": "222 Moo 1, Wiang, Chiang Saen",
+    "description": "Anantara Golden Triangle Resort is an extraordinary jungle hilltop estate famous for its unique transparent Jungle Bubble rooms. Enjoy the close interactive elephant sanctuary viewing tracks, three-country border lookout terraces, and traditional cooking schools."
+  },
+  {
+    "id": 179,
+    "name": "The Beverly Hills Hotel",
+    "type": "hotel",
+    "city": "Los Angeles",
+    "address": "9641 Sunset Boulevard, Beverly Hills",
+    "description": "The Beverly Hills Hotel is a legendary Hollywood landmark famous worldwide for its iconic pink palace styling and palm trees. Enjoy the historic polo lounge dining spaces, private star-celebrity pool cabanas, and glamorous retro vintage designs."
+  },
+  {
+    "id": 180,
+    "name": "Cheval Blanc St-Barth Isle",
+    "type": "villa",
+    "city": "St. Barth",
+    "address": "Baie de Flamands, Saint Barthelemy",
+    "description": "Cheval Blanc St-Barth Isle is an exclusive ultra-chic beach paradise radiating French refinement and carefree island living styles. Enjoy the private beach fashion show lunches, luxury Guerlain customized beauty treatments, and premium oceanfront pool villas."
+  },
+  {
+    "id": 181,
+    "name": "Mandarin Oriental Hyde Park",
+    "type": "hotel",
+    "city": "London",
+    "address": "66 Knightsbridge, London SW1X 7LA",
+    "description": "Mandarin Oriental Hyde Park is a grand historic landmark offering spectacular front-row views over London's most beautiful royal parklands. Enjoy the two-Michelin-starred Heston Blumenthal dining, premium subterranean thermal spas, and direct high-end shopping access."
+  },
+  {
+    "id": 182,
+    "name": "Rosewood London Mansion",
+    "type": "hotel",
+    "city": "London",
+    "address": "252 High Holborn, London WC1V 7EN",
+    "description": "Rosewood London Mansion is a stunning Edwardian heritage property entered via a magnificent private classic carriage courtyard gate. Enjoy the trendy local gin lounge bars, authentic high British pie room kitchens, and copper-accented wellness spas."
+  },
+  {
+    "id": 183,
+    "name": "The Peninsula New York",
+    "type": "hotel",
+    "city": "New York",
+    "address": "700 Fifth Avenue, 55th Street",
+    "description": "The Peninsula New York is a grand upscale landmark positioned perfectly in the absolute epicenter of high Fifth Avenue shopping. Enjoy the spectacular high-floor glass indoor swimming pool, chic rooftop sunset terrace bars, and classic room tech controls."
+  },
+  {
+    "id": 184,
+    "name": "Four Seasons Safari Lodge",
+    "type": "hotel",
+    "city": "Serengeti",
+    "address": "Central Serengeti National Park Wildlife Area",
+    "description": "Four Seasons Safari Lodge is an extraordinary wilderness property featuring a central swimming pool floating right next to a wild watering hole. Enjoy the close up elephant family watching, guided local Maasai warrior bush paths, and open-sky sunset spa platforms."
+  },
+  {
+    "id": 185,
+    "name": "Singita Boulders Lodge",
+    "type": "villa",
+    "city": "Kruger National Park",
+    "address": "Sabi Sand Wildlife Reserve, Kruger",
+    "description": "Singita Boulders Lodge is a striking contemporary designer camp built seamlessly right into the native massive river boulders. Enjoy the floor-to-ceiling wilderness view glass walls, private game tracker wildlife vehicle tours, and premium regional wine rooms."
+  },
+  {
+    "id": 186,
+    "name": "The St. Regis Florence Palace",
+    "type": "hotel",
+    "city": "Florence",
+    "address": "Piazza Ognissanti 1, Arno River",
+    "description": "The St. Regis Florence Palace is a magnificent 15th-century historic palace designed by the legendary Renaissance architect Brunelleschi. Enjoy the historic crystal chandelier breakfast vaults, direct views of the scenic Arno river, and premium personalized room butler care."
+  },
+  {
+    "id": 187,
+    "name": "Aman Canal Grande Overwater",
+    "type": "villa",
+    "city": "Venice",
+    "address": "San Polo Palazzo, Grand Canal 1364",
+    "description": "Aman Canal Grande Overwater is an elite private palace wing offering unparalleled classic luxury directly on the world's most romantic waterways. Enjoy the museum-grade Tiepolo fresco bedroom lounges, private wooden speedboat transfers, and hidden palace botanical gardens."
+  },
+  {
+    "id": 188,
+    "name": "Hotel Cavo Tagoo Santorini",
+    "type": "hotel",
+    "city": "Santorini",
+    "address": "Imerovigli Cliff High Ridge, 84600",
+    "description": "Hotel Cavo Tagoo Santorini is a breathtaking luxury escape famous for its heated cliffhanging glass pool decks facing caldera views. Enjoy the spectacular Aegean sea sunset candlelit dinners, modern whitewashed minimalist design, and private cliff cave suites."
+  },
+  {
+    "id": 189,
+    "name": "One&Only Le Saint Geran",
+    "type": "villa",
+    "city": "Mauritius",
+    "address": "Pointe de Flacq, Private Coastal Lagoon",
+    "description": "One&Only Le Saint Geran is an iconic tropical beach paradise hidden away inside a private peninsula bordered by coral reefs. Enjoy the private motorized water ski lagoons, three-hole short course golf academy, and beachfront fine dining open pavilions."
+  },
+  {
+    "id": 190,
+    "name": "The Fullerton Bay Hotel",
+    "type": "hotel",
+    "city": "Singapore",
+    "address": "80 Collyer Quay, Marina Bay Waterfront",
+    "description": "The Fullerton Bay Hotel is a spectacular high-end waterfront gem floating completely over the shiny waters of Marina Bay. Enjoy the stunning rooftop lantern infinity pool bars, premium floor-to-ceiling glass bayview rooms, and custom heritage cruise tours."
+  },
+  {
+    "id": 191,
+    "name": "Soneva Kiri Forest Retreat",
+    "type": "villa",
+    "city": "Koh Kood",
+    "address": "110 Moo 4, Koh Kood Private Island",
+    "description": "Soneva Kiri Forest Retreat is an incredible off-the-grid island sanctuary famous for its unique high-tree pod dining experiences. Enjoy the open-air wooden jungle cinema screens, private airplane beach transit strips, and premium organic chocolate rooms."
+  },
+  {
+    "id": 192,
+    "name": "Mandarin Oriental Paris",
+    "type": "hotel",
+    "city": "Paris",
+    "address": "251 Rue Saint-Honore, 1st Arrondissement",
+    "description": "Mandarin Oriental Paris is a sleek modern fashion hotel situated on the world's most prestigious luxury boutique shopping avenues. Enjoy the beautiful inner courtyard garden bistros, Michelin-starred Sur Mesure dining, and expansive two-story indoor wellness pools."
+  },
+  {
+    "id": 193,
+    "name": "Rosewood Villa Magna Luxury",
+    "type": "villa",
+    "city": "Madrid",
+    "address": "Paseo de la Castellana Boulevard 22",
+    "description": "Rosewood Villa Magna Luxury is an elegant urban retreat providing unmatched contemporary luxury and tranquility in the capital. Enjoy the traditional Moroccan hammam steam spas, premium local roast coffee terrace bars, and direct elite shopping street proximity."
+  },
+  {
+    "id": 194,
+    "name": "Huka Lodge Cascade Villas",
+    "type": "villa",
+    "city": "Taupo",
+    "address": "Waikato River Banks, Huka Falls Road",
+    "description": "Huka Lodge Cascade Villas is a legendary historical estate offering premium privacy along rushing mountain trout river streams. Enjoy the open-air stone fireplace dining pavilions, private mountain helicopter glacier tours, and exceptional gourmet kitchen selections."
+  },
+  {
+    "id": 195,
+    "name": "Conrad Bora Bora Lagoon View",
+    "type": "hotel",
+    "city": "Bora Bora",
+    "address": "Motu To'opua Private Lagoon Ring",
+    "description": "Conrad Bora Bora Lagoon View is an enchanting island resort offering direct overwater walkouts into blue tropical marine sanctuaries. Enjoy the panoramic hilltop open-air wellness centers, glass-bottom overwater lounge nets, and traditional Polynesian live music."
+  },
+  {
+    "id": 196,
+    "name": "Belmond Copacabana Palace Pool",
+    "type": "villa",
+    "city": "Rio de Janeiro",
+    "address": "Copacabana Oceanfront Avenue 1702",
+    "description": "Belmond Copacabana Palace Pool is an elite penthouse extension giving exclusive access to private top-floor oceanfront terrace clubs. Enjoy the classic 1920s glamorous room architectures, private elite butler cocktail programs, and spectacular beach sunset view decks."
+  },
+  {
+    "id": 197,
+    "name": "The Tokyo Station Imperial",
+    "type": "hotel",
+    "city": "Tokyo",
+    "address": "Marunouchi Central Station Heritage Vault",
+    "description": "The Tokyo Station Imperial is a beautifully preserved architectural masterpiece giving upscale luxury inside a majestic national red-brick monument. Enjoy the historic vaulted cathedral breakfast rooms, timeless high-ceiling suites, and prime imperial garden views."
+  },
+  {
+    "id": 198,
+    "name": "Amanpulo Palawan Sea Casitas",
+    "type": "villa",
+    "city": "Palawan",
+    "address": "Pamalican Coral Reef Island, Sulu Sea",
+    "description": "Amanpulo Palawan Sea Casitas is an exclusive island sanctuary offering beachfront stilt-houses steps away from crystal marine coral reefs. Enjoy the individual motorized golf-cart trail access, private island beach picnic setups, and world-class scuba diving schools."
+  },
+  {
+    "id": 199,
+    "name": "Post Ranch Inn Cliffside",
+    "type": "hotel",
+    "city": "Big Sur",
+    "address": "Highway 1 High Ridge, California Coast",
+    "description": "Post Ranch Inn Cliffside is a stunning architectural masterpiece hanging dramatically over high coastal cliffs and misty redwood forests. Enjoy the cliff-edge warm basking pool systems, glass-faced coastal fine dining, and guided mountain nature tracking paths."
+  },
+  {
+    "id": 200,
+    "name": "Burj Al Arab Sky Palace",
+    "type": "hotel",
+    "city": "Dubai",
+    "address": "Jumeirah Beach Road Sail Tower Peak",
+    "description": "Burj Al Arab Sky Palace is the ultimate flagship grand duplex suite occupying the highest vantage point of the iconic sail tower. Enjoy the private internal elevators, 24-karat gold frame tech controls, and breathtaking 360-degree views of the Arabian Gulf."
+  }
+]

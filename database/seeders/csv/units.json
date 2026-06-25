@@ -1,0 +1,1850 @@
+[
+  {
+    "property_name": "Mulia Resort Nusa Dua",
+    "name": "villa",
+    "capacity": 6,
+    "price": 4500000
+  },
+  {
+    "property_name": "Aston Inn Batu",
+    "name": "villa",
+    "capacity": 4,
+    "price": 2200000
+  },
+  {
+    "property_name": "Golden Hill by Golden Tulip",
+    "name": "Deluxe Twin Room",
+    "capacity": 2,
+    "price": 850000
+  },
+  {
+    "property_name": "Golden Hill by Golden Tulip",
+    "name": "Executive King Suite",
+    "capacity": 3,
+    "price": 1750000
+  },
+  {
+    "property_name": "Plataran Borobudur Resort",
+    "name": "villa",
+    "capacity": 4,
+    "price": 5200000
+  },
+  {
+    "property_name": "The Kayon Jungle Resort",
+    "name": "villa",
+    "capacity": 4,
+    "price": 4800000
+  },
+  {
+    "property_name": "Amankila Ocean Villas",
+    "name": "villa",
+    "capacity": 6,
+    "price": 8500000
+  },
+  {
+    "property_name": "Mercure Bali Nusa Dua Hotel",
+    "name": "Superior King Room",
+    "capacity": 2,
+    "price": 950000
+  },
+  {
+    "property_name": "Mercure Bali Nusa Dua Hotel",
+    "name": "Privilege Family Suite",
+    "capacity": 4,
+    "price": 1900000
+  },
+  {
+    "property_name": "Alila Villas Uluwatu",
+    "name": "villa",
+    "capacity": 4,
+    "price": 12000000
+  },
+  {
+    "property_name": "Pullman Lombok Merujani",
+    "name": "villa",
+    "capacity": 6,
+    "price": 3900000
+  },
+  {
+    "property_name": "Grand Hyatt Yogyakarta",
+    "name": "Standard Twin Garden View",
+    "capacity": 2,
+    "price": 1200000
+  },
+  {
+    "property_name": "Grand Hyatt Yogyakarta",
+    "name": "Grand Executive Suite",
+    "capacity": 4,
+    "price": 3100000
+  },
+  {
+    "property_name": "Ayana Komodo Waecicu Beach",
+    "name": "villa",
+    "capacity": 4,
+    "price": 4200000
+  },
+  {
+    "property_name": "Hotel Tentrem Yogyakarta",
+    "name": "Deluxe King Room",
+    "capacity": 2,
+    "price": 1500000
+  },
+  {
+    "property_name": "Hotel Tentrem Yogyakarta",
+    "name": "Tentrem Presidential Suite",
+    "capacity": 4,
+    "price": 5500000
+  },
+  {
+    "property_name": "Sudamala Resort Senggigi",
+    "name": "villa",
+    "capacity": 4,
+    "price": 2600000
+  },
+  {
+    "property_name": "The Phoenix Hotel MGallery",
+    "name": "Classic Heritage Twin",
+    "capacity": 2,
+    "price": 1100000
+  },
+  {
+    "property_name": "The Phoenix Hotel MGallery",
+    "name": "Legendary Phoenix Suite",
+    "capacity": 3,
+    "price": 2400000
+  },
+  {
+    "property_name": "Jambuluwuk Oceano Seminyak",
+    "name": "Deluxe Double Room",
+    "capacity": 2,
+    "price": 800000
+  },
+  {
+    "property_name": "Jambuluwuk Oceano Seminyak",
+    "name": "Oceano Premier Suite",
+    "capacity": 4,
+    "price": 1650000
+  },
+  {
+    "property_name": "Padma Resort Ubud",
+    "name": "Premier Twin Room",
+    "capacity": 2,
+    "price": 2100000
+  },
+  {
+    "property_name": "Padma Resort Ubud",
+    "name": "Two-Bedroom Family Suite",
+    "capacity": 4,
+    "price": 4500000
+  },
+  {
+    "property_name": "Novotel Lombok Resort & Villas",
+    "name": "Superior King Garden",
+    "capacity": 2,
+    "price": 900000
+  },
+  {
+    "property_name": "Novotel Lombok Resort & Villas",
+    "name": "Sasak Family Suite",
+    "capacity": 4,
+    "price": 1850000
+  },
+  {
+    "property_name": "Sutasoma Hotel Jakarta",
+    "name": "Deluxe Twin Bed",
+    "capacity": 2,
+    "price": 1300000
+  },
+  {
+    "property_name": "Sutasoma Hotel Jakarta",
+    "name": "Sutasoma Executive Suite",
+    "capacity": 3,
+    "price": 2800000
+  },
+  {
+    "property_name": "Swiss-Belresort Dago Heritage",
+    "name": "Deluxe Golf View",
+    "capacity": 2,
+    "price": 950000
+  },
+  {
+    "property_name": "Swiss-Belresort Dago Heritage",
+    "name": "Grand Suite Room",
+    "capacity": 4,
+    "price": 2100000
+  },
+  {
+    "property_name": "MesaStila Resort & Spa",
+    "name": "villa",
+    "capacity": 4,
+    "price": 3400000
+  },
+  {
+    "property_name": "Sheraton Belitung Resort",
+    "name": "Deluxe Island View Twin",
+    "capacity": 2,
+    "price": 1400000
+  },
+  {
+    "property_name": "Sheraton Belitung Resort",
+    "name": "Executive Oceanfront Suite",
+    "capacity": 3,
+    "price": 2900000
+  },
+  {
+    "property_name": "The Oberoi Beach Resort",
+    "name": "Luxury Pavilion Garden View",
+    "capacity": 2,
+    "price": 3800000
+  },
+  {
+    "property_name": "The Oberoi Beach Resort",
+    "name": "Royal Oceanfront Villa",
+    "capacity": 4,
+    "price": 7200000
+  },
+  {
+    "property_name": "Viceroy Bali Luxury Villas",
+    "name": "villa",
+    "capacity": 4,
+    "price": 9800000
+  },
+  {
+    "property_name": "Komaneka at Bisma",
+    "name": "Bisma Suite King",
+    "capacity": 2,
+    "price": 2700000
+  },
+  {
+    "property_name": "Komaneka at Bisma",
+    "name": "Family Pool Suite",
+    "capacity": 4,
+    "price": 5100000
+  },
+  {
+    "property_name": "The Trans Luxury Hotel",
+    "name": "Premier Double Room",
+    "capacity": 2,
+    "price": 2200000
+  },
+  {
+    "property_name": "The Trans Luxury Hotel",
+    "name": "Celebrity Luxury Suite",
+    "capacity": 4,
+    "price": 4900000
+  },
+  {
+    "property_name": "Inaya Putri Bali Resort",
+    "name": "Deluxe Lagoon Access",
+    "capacity": 2,
+    "price": 1800000
+  },
+  {
+    "property_name": "Inaya Putri Bali Resort",
+    "name": "Inaya Ocean Suite",
+    "capacity": 4,
+    "price": 3600000
+  },
+  {
+    "property_name": "InterContinental Bandung Dago Pakar",
+    "name": "Classic Mountain View",
+    "capacity": 2,
+    "price": 1600000
+  },
+  {
+    "property_name": "InterContinental Bandung Dago Pakar",
+    "name": "Kencana Premium Suite",
+    "capacity": 4,
+    "price": 3400000
+  },
+  {
+    "property_name": "Banyan Tree Bintan Villas",
+    "name": "villa",
+    "capacity": 4,
+    "price": 6500000
+  },
+  {
+    "property_name": "The Gaia Hotel Bandung",
+    "name": "Deluxe Twin with Balcony",
+    "capacity": 2,
+    "price": 1900000
+  },
+  {
+    "property_name": "The Gaia Hotel Bandung",
+    "name": "The Gaia Club Suite",
+    "capacity": 3,
+    "price": 3800000
+  },
+  {
+    "property_name": "Suarga Padang Padang",
+    "name": "villa",
+    "capacity": 4,
+    "price": 4100000
+  },
+  {
+    "property_name": "Katamama Seminyak by Desa Potato Head",
+    "name": "villa",
+    "capacity": 4,
+    "price": 5500000
+  },
+  {
+    "property_name": " Hanging Gardens of Bali",
+    "name": "villa",
+    "capacity": 4,
+    "price": 7800000
+  },
+  {
+    "property_name": "Como Uma Ubud",
+    "name": "villa",
+    "capacity": 4,
+    "price": 3900000
+  },
+  {
+    "property_name": "Marriott Yogyakarta Hotel",
+    "name": "Deluxe Twin Room",
+    "capacity": 2,
+    "price": 1250000
+  },
+  {
+    "property_name": "Marriott Yogyakarta Hotel",
+    "name": "Marriott Executive Suite",
+    "capacity": 4,
+    "price": 2900000
+  },
+  {
+    "property_name": "W Bali - Seminyak",
+    "name": "villa",
+    "capacity": 4,
+    "price": 6800000
+  },
+  {
+    "property_name": "The Legian Seminyak",
+    "name": "villa",
+    "capacity": 4,
+    "price": 8200000
+  },
+  {
+    "property_name": "Nihi Sumba Luxury Resort",
+    "name": "villa",
+    "capacity": 8,
+    "price": 19500000
+  },
+  {
+    "property_name": "The Apurva Kempinski Bali",
+    "name": "Grand Deluxe Ocean Court",
+    "capacity": 2,
+    "price": 3100000
+  },
+  {
+    "property_name": "The Apurva Kempinski Bali",
+    "name": "Cliff Private Pool Junior Suite",
+    "capacity": 3,
+    "price": 5800000
+  },
+  {
+    "property_name": "Soori Bali Eco Villas",
+    "name": "villa",
+    "capacity": 6,
+    "price": 9200000
+  },
+  {
+    "property_name": "Anantara Uluwatu Bali Resort",
+    "name": "Ocean View Suite King",
+    "capacity": 2,
+    "price": 3500000
+  },
+  {
+    "property_name": "Anantara Uluwatu Bali Resort",
+    "name": "Two-Bedroom Ocean Penthouse",
+    "capacity": 4,
+    "price": 7900000
+  },
+  {
+    "property_name": "Lafayette Boutique Hotel",
+    "name": "Corelli Deluxe Twin",
+    "capacity": 2,
+    "price": 950000
+  },
+  {
+    "property_name": "Lafayette Boutique Hotel",
+    "name": "Penthouse Imperial Suite",
+    "capacity": 4,
+    "price": 2600000
+  },
+  {
+    "property_name": "Bumi Surabaya Resort",
+    "name": "Classic Double Room",
+    "capacity": 2,
+    "price": 850000
+  },
+  {
+    "property_name": "Bumi Surabaya Resort",
+    "name": "Club Executive Suite",
+    "capacity": 3,
+    "price": 1600000
+  },
+  {
+    "property_name": " Plataran Menjangan Resort",
+    "name": "villa",
+    "capacity": 4,
+    "price": 4900000
+  },
+  {
+    "property_name": "Dialoog Hotel Banyuwangi",
+    "name": "villa",
+    "capacity": 4,
+    "price": 2100000
+  },
+  {
+    "property_name": "Kura Kura Resort",
+    "name": "Lagoon View Superior",
+    "capacity": 2,
+    "price": 2800000
+  },
+  {
+    "property_name": "Kura Kura Resort",
+    "name": "Private Royal Pool Villa",
+    "capacity": 4,
+    "price": 5900000
+  },
+  {
+    "property_name": "Matahari Beach Resort & Spa",
+    "name": "villa",
+    "capacity": 4,
+    "price": 2400000
+  },
+  {
+    "property_name": "The Singhasari Resort",
+    "name": "Deluxe Twin Mountain View",
+    "capacity": 2,
+    "price": 900000
+  },
+  {
+    "property_name": "The Singhasari Resort",
+    "name": "Singhasari Royal Suite",
+    "capacity": 4,
+    "price": 2200000
+  },
+  {
+    "property_name": "The Oberoi Beach Resort Bali",
+    "name": "Luxury Lanai Room Garden",
+    "capacity": 2,
+    "price": 3600000
+  },
+  {
+    "property_name": "The Oberoi Beach Resort Bali",
+    "name": "Luxury Villa Ocean View",
+    "capacity": 4,
+    "price": 6900000
+  },
+  {
+    "property_name": "Senyiur Prigen Resort",
+    "name": "Superior Double Hill View",
+    "capacity": 2,
+    "price": 750000
+  },
+  {
+    "property_name": "Senyiur Prigen Resort",
+    "name": "Royal Suite Room",
+    "capacity": 4,
+    "price": 1800000
+  },
+  {
+    "property_name": "Amanjiwo Heritage Resort",
+    "name": "Garden Suite Centered",
+    "capacity": 2,
+    "price": 9500000
+  },
+  {
+    "property_name": "Amanjiwo Heritage Resort",
+    "name": "Borobudur Pool Suite",
+    "capacity": 3,
+    "price": 14000000
+  },
+  {
+    "property_name": "Tugu Hotel Malang",
+    "name": "villa",
+    "capacity": 4,
+    "price": 1900000
+  },
+  {
+    "property_name": "Cempaka Hill Hotel",
+    "name": "Standard Twin Bed",
+    "capacity": 2,
+    "price": 450000
+  },
+  {
+    "property_name": "Cempaka Hill Hotel",
+    "name": "Executive Double Bed",
+    "capacity": 2,
+    "price": 750000
+  },
+  {
+    "property_name": "Kapas Luxury Villas",
+    "name": "villa",
+    "capacity": 4,
+    "price": 3100000
+  },
+  {
+    "property_name": "The Royal Pita Maha",
+    "name": "villa",
+    "capacity": 4,
+    "price": 5500000
+  },
+  {
+    "property_name": "Desa Alamanis Resort Vila",
+    "name": "villa",
+    "capacity": 4,
+    "price": 1400000
+  },
+  {
+    "property_name": "Jeeva Klui Resort",
+    "name": "Ananya Beachfront Suite",
+    "capacity": 2,
+    "price": 1650000
+  },
+  {
+    "property_name": "Jeeva Klui Resort",
+    "name": "Akasha Pool Villa Room",
+    "capacity": 3,
+    "price": 2900000
+  },
+  {
+    "property_name": "Maya Ubud Resort & Spa",
+    "name": "villa",
+    "capacity": 4,
+    "price": 3800000
+  },
+  {
+    "property_name": "Novotel Samator Surabaya",
+    "name": "Superior Double Bed",
+    "capacity": 2,
+    "price": 800000
+  },
+  {
+    "property_name": "Novotel Samator Surabaya",
+    "name": "Executive Business Suite",
+    "capacity": 3,
+    "price": 1550000
+  },
+  {
+    "property_name": "The Alana Hotel Solo",
+    "name": "Deluxe King Bed",
+    "capacity": 2,
+    "price": 850000
+  },
+  {
+    "property_name": "The Alana Hotel Solo",
+    "name": "Alana Royal Suite",
+    "capacity": 4,
+    "price": 1950000
+  },
+  {
+    "property_name": "Mentigi Bay Dome Villas",
+    "name": "villa",
+    "capacity": 6,
+    "price": 4200000
+  },
+  {
+    "property_name": "Gili Eco Villas",
+    "name": "villa",
+    "capacity": 4,
+    "price": 2800000
+  },
+  {
+    "property_name": "Radisson Golf Resort Batam",
+    "name": "Superior Golf View Twin",
+    "capacity": 2,
+    "price": 1100000
+  },
+  {
+    "property_name": "Radisson Golf Resort Batam",
+    "name": "Executive Club Suite",
+    "capacity": 4,
+    "price": 2400000
+  },
+  {
+    "property_name": "Sandi Kala Beach Villas",
+    "name": "villa",
+    "capacity": 4,
+    "price": 3200000
+  },
+  {
+    "property_name": "The Alantara Sanur",
+    "name": "villa",
+    "capacity": 4,
+    "price": 2100000
+  },
+  {
+    "property_name": "Kataria Hill Resort",
+    "name": "villa",
+    "capacity": 4,
+    "price": 1350000
+  },
+  {
+    "property_name": "Kelapa Luxury Villas",
+    "name": "villa",
+    "capacity": 6,
+    "price": 3600000
+  },
+  {
+    "property_name": "The Royal Surakarta Heritage",
+    "name": "Superior Heritage Double",
+    "capacity": 2,
+    "price": 800000
+  },
+  {
+    "property_name": "The Royal Surakarta Heritage",
+    "name": "Mangkunegaran Executive Royal",
+    "capacity": 3,
+    "price": 1700000
+  },
+  {
+    "property_name": "Munduk Moding Plantation Nature Resort",
+    "name": "villa",
+    "capacity": 4,
+    "price": 3900000
+  },
+  {
+    "property_name": "Java Banana Bromo Resort",
+    "name": "Deluxe Mountain Twin",
+    "capacity": 2,
+    "price": 1200000
+  },
+  {
+    "property_name": "Java Banana Bromo Resort",
+    "name": "Bromo View Family Suite",
+    "capacity": 4,
+    "price": 2600000
+  },
+  {
+    "property_name": "Amarta Beach Cottages",
+    "name": "Oceanfront Double Bed",
+    "capacity": 2,
+    "price": 950000
+  },
+  {
+    "property_name": "Amarta Beach Cottages",
+    "name": "Paddy View Cottage Suite",
+    "capacity": 4,
+    "price": 1900000
+  },
+  {
+    "property_name": "Samabe Bali Suites & Villas",
+    "name": "villa",
+    "capacity": 4,
+    "price": 6200000
+  },
+  {
+    "property_name": "Khas Parapat Hotel",
+    "name": "Superior Lake View Twin",
+    "capacity": 2,
+    "price": 700000
+  },
+  {
+    "property_name": "Khas Parapat Hotel",
+    "name": "Toba Executive Royal Suite",
+    "capacity": 4,
+    "price": 1550000
+  },
+  {
+    "property_name": "Inna Tretes Hotel",
+    "name": "Standard Hill View Double",
+    "capacity": 2,
+    "price": 450000
+  },
+  {
+    "property_name": "Inna Tretes Hotel",
+    "name": "Family Suite Architecture",
+    "capacity": 4,
+    "price": 1100000
+  },
+  {
+    "property_name": "Sopo Toba Resort",
+    "name": "Standard Cottage Twin",
+    "capacity": 2,
+    "price": 600000
+  },
+  {
+    "property_name": "Sopo Toba Resort",
+    "name": "Samosir Caldera Suite",
+    "capacity": 4,
+    "price": 1400000
+  },
+  {
+    "property_name": "Warna Gili Resort",
+    "name": "villa",
+    "capacity": 4,
+    "price": 1500000
+  },
+  {
+    "property_name": "Bintang Flores Hotel",
+    "name": "villa",
+    "capacity": 4,
+    "price": 1800000
+  },
+  {
+    "property_name": "Puri Sebali Resort",
+    "name": "villa",
+    "capacity": 4,
+    "price": 2700000
+  },
+  {
+    "property_name": "Swiss-Belhotel Harbour Bay",
+    "name": "Deluxe Transit Double",
+    "capacity": 2,
+    "price": 950000
+  },
+  {
+    "property_name": "Swiss-Belhotel Harbour Bay",
+    "name": "Harbour Bay King Suite",
+    "capacity": 3,
+    "price": 1950000
+  },
+  {
+    "property_name": "Pondok Sari Beach Resort",
+    "name": "villa",
+    "capacity": 4,
+    "price": 1600000
+  },
+  {
+    "property_name": "Hotel Santika Premiere Malang",
+    "name": "Deluxe Tropical Pool View",
+    "capacity": 2,
+    "price": 900000
+  },
+  {
+    "property_name": "Hotel Santika Premiere Malang",
+    "name": "Santika Premiere King Suite",
+    "capacity": 4,
+    "price": 2100000
+  },
+  {
+    "property_name": "Amarsvati Luxury Resort",
+    "name": "Ocean View Condotel King",
+    "capacity": 2,
+    "price": 1350000
+  },
+  {
+    "property_name": "Amarsvati Luxury Resort",
+    "name": "Amarsvati Premium Sunset Suite",
+    "capacity": 4,
+    "price": 2900000
+  },
+  {
+    "property_name": "Katamaran Resort Senggigi",
+    "name": "Oceanfront Premium Double",
+    "capacity": 2,
+    "price": 1950000
+  },
+  {
+    "property_name": "Katamaran Resort Senggigi",
+    "name": "Katamaran Glass Luxury Suite",
+    "capacity": 4,
+    "price": 4200000
+  },
+  {
+    "property_name": "The Westin Resort Nusa Dua",
+    "name": "Classic Garden View Twin",
+    "capacity": 2,
+    "price": 2400000
+  },
+  {
+    "property_name": "The Westin Resort Nusa Dua",
+    "name": "Westin Family Wellness Suite",
+    "capacity": 4,
+    "price": 4800000
+  },
+  {
+    "property_name": "Saba Luxury Villas",
+    "name": "villa",
+    "capacity": 6,
+    "price": 7500000
+  },
+  {
+    "property_name": " Plataran Heritage Borobudur",
+    "name": "villa",
+    "capacity": 4,
+    "price": 3800000
+  },
+  {
+    "property_name": "Sora Sky Villas",
+    "name": "villa",
+    "capacity": 6,
+    "price": 2900000
+  },
+  {
+    "property_name": "Tugu Hotel Blitar",
+    "name": "Superior Colonial Twin",
+    "capacity": 2,
+    "price": 750000
+  },
+  {
+    "property_name": "Tugu Hotel Blitar",
+    "name": "Sang Fajar Presidential Suite",
+    "capacity": 4,
+    "price": 1900000
+  },
+  {
+    "property_name": "Novotel Bangka Hotel",
+    "name": "Superior Standard Double",
+    "capacity": 2,
+    "price": 850000
+  },
+  {
+    "property_name": "Novotel Bangka Hotel",
+    "name": "Bangka Grand Ballroom Suite",
+    "capacity": 4,
+    "price": 1850000
+  },
+  {
+    "property_name": "Puri Dajuma Beach Eco-Resort",
+    "name": "villa",
+    "capacity": 4,
+    "price": 2100000
+  },
+  {
+    "property_name": "Aston Bojonegoro City Hotel",
+    "name": "Deluxe Smart Double",
+    "capacity": 2,
+    "price": 700000
+  },
+  {
+    "property_name": "Aston Bojonegoro City Hotel",
+    "name": "Aston Business Lounge Suite",
+    "capacity": 3,
+    "price": 1400000
+  },
+  {
+    "property_name": "Hotel Santika Premiere Banyuwangi",
+    "name": "Superior Osing Twin View",
+    "capacity": 2,
+    "price": 800000
+  },
+  {
+    "property_name": "Hotel Santika Premiere Banyuwangi",
+    "name": "Santika Executive King Suite",
+    "capacity": 4,
+    "price": 1750000
+  },
+  {
+    "property_name": "Ketapang Indah Hotel",
+    "name": "Standard Garden View Double",
+    "capacity": 2,
+    "price": 650000
+  },
+  {
+    "property_name": "Ketapang Indah Hotel",
+    "name": "Cottage Oceanfront Suite",
+    "capacity": 4,
+    "price": 1500000
+  },
+  {
+    "property_name": "Kupu Kupu Barong Villas",
+    "name": "villa",
+    "capacity": 4,
+    "price": 5400000
+  },
+  {
+    "property_name": "Sheraton Surabaya Hotel",
+    "name": "Deluxe Twin Central View",
+    "capacity": 2,
+    "price": 1400000
+  },
+  {
+    "property_name": "Sheraton Surabaya Hotel",
+    "name": "Sheraton Club High Suite",
+    "capacity": 4,
+    "price": 3200000
+  },
+  {
+    "property_name": " Ombak Sunset Resort",
+    "name": "villa",
+    "capacity": 4,
+    "price": 2300000
+  },
+  {
+    "property_name": "The Alana Hotel Yogyakarta",
+    "name": "Deluxe High-Rise Twin",
+    "capacity": 2,
+    "price": 950000
+  },
+  {
+    "property_name": "The Alana Hotel Yogyakarta",
+    "name": "Alana Executive President Suite",
+    "capacity": 4,
+    "price": 2400000
+  },
+  {
+    "property_name": "Hotel Indigo Bali Seminyak",
+    "name": "Classic Urban Double Design",
+    "capacity": 2,
+    "price": 2600000
+  },
+  {
+    "property_name": "Hotel Indigo Bali Seminyak",
+    "name": "Indigo Peranakan Lounge Suite",
+    "capacity": 4,
+    "price": 5200000
+  },
+  {
+    "property_name": "Suwat Jungle Villas",
+    "name": "villa",
+    "capacity": 4,
+    "price": 3100000
+  },
+  {
+    "property_name": "Jeeva Beloam Beach Camp",
+    "name": "Rustic Beachfront Cottage",
+    "capacity": 2,
+    "price": 2400000
+  },
+  {
+    "property_name": "Jeeva Beloam Beach Camp",
+    "name": "Beloam Sand Dune Suite",
+    "capacity": 4,
+    "price": 4500000
+  },
+  {
+    "property_name": "The Shalimar Boutique Hotel",
+    "name": "Classic Heritage Double 1930",
+    "capacity": 2,
+    "price": 1350000
+  },
+  {
+    "property_name": "The Shalimar Boutique Hotel",
+    "name": "Shalimar Imperial Library Suite",
+    "capacity": 3,
+    "price": 2900000
+  },
+  {
+    "property_name": "Four Seasons Kyoto Villas",
+    "name": "villa",
+    "capacity": 4,
+    "price": 14500000
+  },
+  {
+    "property_name": "The Ritz-Carlton Tokyo",
+    "name": "Deluxe Tower View Twin",
+    "capacity": 2,
+    "price": 12000000
+  },
+  {
+    "property_name": "The Ritz-Carlton Tokyo",
+    "name": "Carlton Fuji View Luxury Suite",
+    "capacity": 4,
+    "price": 24000000
+  },
+  {
+    "property_name": "InterContinental Paris Le Grand",
+    "name": "villa",
+    "capacity": 4,
+    "price": 8500000
+  },
+  {
+    "property_name": "Swiss Chalet Edelweiss",
+    "name": "villa",
+    "capacity": 6,
+    "price": 9500000
+  },
+  {
+    "property_name": "Marina Bay Sands Hotel",
+    "name": "Deluxe Marina Bay Twin",
+    "capacity": 2,
+    "price": 6500000
+  },
+  {
+    "property_name": "Marina Bay Sands Hotel",
+    "name": "Sands High Horizon Executive Suite",
+    "capacity": 4,
+    "price": 13500000
+  },
+  {
+    "property_name": "Santorini Caldera Cliff Villas",
+    "name": "villa",
+    "capacity": 4,
+    "price": 11000000
+  },
+  {
+    "property_name": "The Plaza Hotel New York",
+    "name": "Classic Central Park Double",
+    "capacity": 2,
+    "price": 15000000
+  },
+  {
+    "property_name": "The Plaza Hotel New York",
+    "name": "Plaza Grand Royal Butler Suite",
+    "capacity": 4,
+    "price": 32000000
+  },
+  {
+    "property_name": "Burj Al Arab Jumeirah",
+    "name": "villa",
+    "capacity": 4,
+    "price": 29000000
+  },
+  {
+    "property_name": "Villa d'Este Lake Como",
+    "name": "villa",
+    "capacity": 6,
+    "price": 18500000
+  },
+  {
+    "property_name": "Shangri-La The Shard",
+    "name": "Premier River Thames View",
+    "capacity": 2,
+    "price": 9500000
+  },
+  {
+    "property_name": "Shangri-La The Shard",
+    "name": "The Shard High Horizon Suite",
+    "capacity": 4,
+    "price": 19500000
+  },
+  {
+    "property_name": "Mandarin Oriental Bangkok",
+    "name": "villa",
+    "capacity": 4,
+    "price": 5500000
+  },
+  {
+    "property_name": "The Venetian Resort",
+    "name": "villa",
+    "capacity": 4,
+    "price": 4200000
+  },
+  {
+    "property_name": "Amangiri Desert Resort",
+    "name": "villa",
+    "capacity": 4,
+    "price": 21000000
+  },
+  {
+    "property_name": "Maldives Overwater Bungalows",
+    "name": "villa",
+    "capacity": 4,
+    "price": 13500000
+  },
+  {
+    "property_name": "The Savoy London",
+    "name": "Edwardian River View Double",
+    "capacity": 2,
+    "price": 11000000
+  },
+  {
+    "property_name": "The Savoy London",
+    "name": "Savoy American Bar Luxury Suite",
+    "capacity": 4,
+    "price": 22000000
+  },
+  {
+    "property_name": "Phuket Pavilions Villa",
+    "name": "villa",
+    "capacity": 4,
+    "price": 3800000
+  },
+  {
+    "property_name": "Cappadocia Cave Resort",
+    "name": "villa",
+    "capacity": 4,
+    "price": 4900000
+  },
+  {
+    "property_name": "Hotel Atlantis The Palm",
+    "name": "Ocean Aquarium Family Twin",
+    "capacity": 4,
+    "price": 8500000
+  },
+  {
+    "property_name": "Hotel Atlantis The Palm",
+    "name": "Atlantis Lost City Grand Suite",
+    "capacity": 6,
+    "price": 19500000
+  },
+  {
+    "property_name": "The Fullerton Hotel",
+    "name": "Classic Downtown Heritage Double",
+    "capacity": 2,
+    "price": 4800000
+  },
+  {
+    "property_name": "The Fullerton Hotel",
+    "name": "Fullton Post Office Royal Suite",
+    "capacity": 4,
+    "price": 9500000
+  },
+  {
+    "property_name": "Soneva Jani Luxury Villas",
+    "name": "villa",
+    "capacity": 6,
+    "price": 32000000
+  },
+  {
+    "property_name": "Kakslauttanen Arctic Resort",
+    "name": "villa",
+    "capacity": 4,
+    "price": 7500000
+  },
+  {
+    "property_name": "The Langham Sydney",
+    "name": "Classic Harbour Side Twin",
+    "capacity": 2,
+    "price": 5200000
+  },
+  {
+    "property_name": "The Langham Sydney",
+    "name": "Langham British Wellness Suite",
+    "capacity": 4,
+    "price": 11000000
+  },
+  {
+    "property_name": "Fairmont Chateau Lake Louise",
+    "name": "villa",
+    "capacity": 4,
+    "price": 6800000
+  },
+  {
+    "property_name": "Park Hyatt Sydney",
+    "name": "Harbourfront Opera Double View",
+    "capacity": 2,
+    "price": 12500000
+  },
+  {
+    "property_name": "Park Hyatt Sydney",
+    "name": "Park Hyatt Bridge Premium Suite",
+    "capacity": 4,
+    "price": 26000000
+  },
+  {
+    "property_name": "Belmond Hotel Caruso",
+    "name": "Classic Cliffside Mediterranean Twin",
+    "capacity": 2,
+    "price": 14000000
+  },
+  {
+    "property_name": "Belmond Hotel Caruso",
+    "name": "Caruso Historical Palace Suite",
+    "capacity": 4,
+    "price": 29000000
+  },
+  {
+    "property_name": "Rosewood Hong Kong",
+    "name": "Classic Victoria Harbour Double",
+    "capacity": 2,
+    "price": 9800000
+  },
+  {
+    "property_name": "Rosewood Hong Kong",
+    "name": "Rosewood Waterfront Club Manor",
+    "capacity": 4,
+    "price": 21000000
+  },
+  {
+    "property_name": "Banyan Tree Bangkok",
+    "name": "Classic Sathon City Twin",
+    "capacity": 2,
+    "price": 3200000
+  },
+  {
+    "property_name": "Banyan Tree Bangkok",
+    "name": "Vertigo Horizon Executive Suite",
+    "capacity": 4,
+    "price": 6800000
+  },
+  {
+    "property_name": "The Peninsula Tokyo",
+    "name": "Classic Imperial Garden Double",
+    "capacity": 2,
+    "price": 11500000
+  },
+  {
+    "property_name": "The Peninsula Tokyo",
+    "name": "Peninsula Vintage Luxury Suite",
+    "capacity": 4,
+    "price": 24000000
+  },
+  {
+    "property_name": "W Barcelona Sail Hotel",
+    "name": "Classic Barceloneta Beach Twin",
+    "capacity": 2,
+    "price": 5500000
+  },
+  {
+    "property_name": "W Barcelona Sail Hotel",
+    "name": "W Panoramic Wet Deck Suite",
+    "capacity": 4,
+    "price": 12000000
+  },
+  {
+    "property_name": "Six Senses Ibiza Villas",
+    "name": "villa",
+    "capacity": 6,
+    "price": 16500000
+  },
+  {
+    "property_name": "The Peninsula Hong Kong",
+    "name": "Classic Kowloon Waterfront Double",
+    "capacity": 2,
+    "price": 9500000
+  },
+  {
+    "property_name": "The Peninsula Hong Kong",
+    "name": "Grande Dame Heritage Royal Suite",
+    "capacity": 4,
+    "price": 22000000
+  },
+  {
+    "property_name": "Claridge's Luxury Hotel",
+    "name": "Classic Mayfair Fashion Twin",
+    "capacity": 2,
+    "price": 13500000
+  },
+  {
+    "property_name": "Claridge's Luxury Hotel",
+    "name": "Claridge Art Deco Royal Suite",
+    "capacity": 4,
+    "price": 28000000
+  },
+  {
+    "property_name": "Aman Venice Luxury Palace",
+    "name": "villa",
+    "capacity": 4,
+    "price": 22000000
+  },
+  {
+    "property_name": "Raffles Hotel Singapore",
+    "name": "Classic Court Veranda Twin",
+    "capacity": 2,
+    "price": 11000000
+  },
+  {
+    "property_name": "Raffles Hotel Singapore",
+    "name": "Raffles Sling Heritage Royal Suite",
+    "capacity": 4,
+    "price": 24000000
+  },
+  {
+    "property_name": "Keemala Bird's Nest Villas",
+    "name": "Classic Canopy View Double",
+    "capacity": 2,
+    "price": 5400000
+  },
+  {
+    "property_name": "Keemala Bird's Nest Villas",
+    "name": "Keemala Hidden Waterfall Suite",
+    "capacity": 4,
+    "price": 9800000
+  },
+  {
+    "property_name": "Hotel de Paris Monte-Carlo",
+    "name": "Classic Casino Square Double",
+    "capacity": 2,
+    "price": 16000000
+  },
+  {
+    "property_name": "Hotel de Paris Monte-Carlo",
+    "name": "Alain Ducasse Oceanfront Palace",
+    "capacity": 4,
+    "price": 35000000
+  },
+  {
+    "property_name": "Singita Ebony Lodge",
+    "name": "villa",
+    "capacity": 4,
+    "price": 24000000
+  },
+  {
+    "property_name": "The St. Regis Maldives Vommuli",
+    "name": "Classic Manta Ray Overwater Twin",
+    "capacity": 2,
+    "price": 19500000
+  },
+  {
+    "property_name": "The St. Regis Maldives Vommuli",
+    "name": "St Regis Whale Shark Sunset Suite",
+    "capacity": 4,
+    "price": 38000000
+  },
+  {
+    "property_name": "Hotel Cavo Tagoo Mykonos",
+    "name": "Classic Subterranean Cave Double",
+    "capacity": 2,
+    "price": 8500000
+  },
+  {
+    "property_name": "Hotel Cavo Tagoo Mykonos",
+    "name": "Cavo Tagoo Floating Bed Suite",
+    "capacity": 4,
+    "price": 18500000
+  },
+  {
+    "property_name": "One&Only Reethi Rah",
+    "name": "Classic Sand Beachfront Double",
+    "capacity": 2,
+    "price": 12500000
+  },
+  {
+    "property_name": "One&Only Reethi Rah",
+    "name": "One Only Elite Lap Pool Suite",
+    "capacity": 4,
+    "price": 26000000
+  },
+  {
+    "property_name": "The Brando Eco Resort",
+    "name": "Classic Coral Reef Sanctuary Double",
+    "capacity": 2,
+    "price": 21000000
+  },
+  {
+    "property_name": "The Brando Eco Resort",
+    "name": "Marlon Brando Zero Carbon Suite",
+    "capacity": 4,
+    "price": 45000000
+  },
+  {
+    "property_name": "Mandarin Oriental Tokyo",
+    "name": "Classic Nihonbashi Corner Twin",
+    "capacity": 2,
+    "price": 11000000
+  },
+  {
+    "property_name": "Mandarin Oriental Tokyo",
+    "name": "Mandarin Sky Cell Counter Suite",
+    "capacity": 4,
+    "price": 23000000
+  },
+  {
+    "property_name": "Villa Magna Rosewood",
+    "name": "villa",
+    "capacity": 4,
+    "price": 9500000
+  },
+  {
+    "property_name": "Huka Lodge Luxury Retreat",
+    "name": "villa",
+    "capacity": 4,
+    "price": 14500000
+  },
+  {
+    "property_name": " Conrad Bora Bora Nui",
+    "name": "villa",
+    "capacity": 4,
+    "price": 13500000
+  },
+  {
+    "property_name": "Belmond Copacabana Palace",
+    "name": "Classic Sand Track Beach Twin",
+    "capacity": 2,
+    "price": 6800000
+  },
+  {
+    "property_name": "Belmond Copacabana Palace",
+    "name": "Copacabana Pan Asian Palace Suite",
+    "capacity": 4,
+    "price": 14500000
+  },
+  {
+    "property_name": "The Tokyo Station Hotel",
+    "name": "Classic European Station Double",
+    "capacity": 2,
+    "price": 5400000
+  },
+  {
+    "property_name": "The Tokyo Station Hotel",
+    "name": "Marunouchi Vaulted High Suite",
+    "capacity": 4,
+    "price": 11500000
+  },
+  {
+    "property_name": "Amanpulo Private Island",
+    "name": "Classic Sulu Sea Coral Double",
+    "capacity": 2,
+    "price": 18500000
+  },
+  {
+    "property_name": "Amanpulo Private Island",
+    "name": "Amanpulo Private Twin Engine Suite",
+    "capacity": 4,
+    "price": 39000000
+  },
+  {
+    "property_name": "Post Ranch Inn",
+    "name": "Classic Eco Wood Cabin Double",
+    "capacity": 2,
+    "price": 16500000
+  },
+  {
+    "property_name": "Post Ranch Inn",
+    "name": "Post Ranch Stargazing Telescope Suite",
+    "capacity": 4,
+    "price": 34000000
+  },
+  {
+    "property_name": "Burj Al Arab Ocean Suites",
+    "name": "Classic Oceanfront Duplex Twin",
+    "capacity": 2,
+    "price": 31000000
+  },
+  {
+    "property_name": "Burj Al Arab Ocean Suites",
+    "name": "Burj Al Arab Elite Private Yacht Suite",
+    "capacity": 4,
+    "price": 65000000
+  },
+  {
+    "property_name": "The Langham London",
+    "name": "Classic Vault Pool Double",
+    "capacity": 2,
+    "price": 9800000
+  },
+  {
+    "property_name": "The Langham London",
+    "name": "Langham Regent Street High Suite",
+    "capacity": 4,
+    "price": 21000000
+  },
+  {
+    "property_name": "Amanusa Hilltop Villas",
+    "name": "villa",
+    "capacity": 4,
+    "price": 12500000
+  },
+  {
+    "property_name": "Badrutt's Palace Hotel",
+    "name": "Classic Cavern Pool Mountain Twin",
+    "capacity": 2,
+    "price": 14500000
+  },
+  {
+    "property_name": "Badrutt's Palace Hotel",
+    "name": "Engadin Valley Castle High Suite",
+    "capacity": 4,
+    "price": 29500000
+  },
+  {
+    "property_name": "The Peninsula Paris",
+    "name": "Classic Neoclassical Marble Double",
+    "capacity": 2,
+    "price": 15500000
+  },
+  {
+    "property_name": "The Peninsula Paris",
+    "name": "Peninsula Arc de Triomphe High Suite",
+    "capacity": 4,
+    "price": 32000000
+  },
+  {
+    "property_name": "Six Senses Laamu Villas",
+    "name": "villa",
+    "capacity": 4,
+    "price": 13500000
+  },
+  {
+    "property_name": "Four Seasons Bora Bora",
+    "name": "Classic Lagoon Wildlife Twin",
+    "capacity": 2,
+    "price": 16500000
+  },
+  {
+    "property_name": "Four Seasons Bora Bora",
+    "name": "Four Seasons Mount Otemanu Suite",
+    "capacity": 4,
+    "price": 34000000
+  },
+  {
+    "property_name": "Chalet Zermatt Peak",
+    "name": "villa",
+    "capacity": 8,
+    "price": 38000000
+  },
+  {
+    "property_name": "Nihi Ocean Edge Villas",
+    "name": "villa",
+    "capacity": 4,
+    "price": 5400000
+  },
+  {
+    "property_name": "The Silo Hotel Cape Town",
+    "name": "villa",
+    "capacity": 4,
+    "price": 11500000
+  },
+  {
+    "property_name": "Rosewood Castiglion del Bosco",
+    "name": "Classic Vineyard View Double",
+    "capacity": 2,
+    "price": 14500000
+  },
+  {
+    "property_name": "Rosewood Castiglion del Bosco",
+    "name": "Tuscan Village Brunello Luxury Suite",
+    "capacity": 4,
+    "price": 29000000
+  },
+  {
+    "property_name": "Amandari Jungle Resort",
+    "name": "villa",
+    "capacity": 4,
+    "price": 5200000
+  },
+  {
+    "property_name": "Mandarin Oriental Milan",
+    "name": "Classic Brera Palace Twin",
+    "capacity": 2,
+    "price": 13500000
+  },
+  {
+    "property_name": "Mandarin Oriental Milan",
+    "name": "Antonio Guida Premium Design Suite",
+    "capacity": 4,
+    "price": 28000000
+  },
+  {
+    "property_name": "The St. Regis New York",
+    "name": "Classic King Cole Double",
+    "capacity": 2,
+    "price": 16500000
+  },
+  {
+    "property_name": "The St. Regis New York",
+    "name": "Manhattan Beaux Arts Butler Suite",
+    "capacity": 4,
+    "price": 35000000
+  },
+  {
+    "property_name": "Soneva Fushi Forest Villas",
+    "name": "villa",
+    "capacity": 6,
+    "price": 24000000
+  },
+  {
+    "property_name": "Belmond Grand Hotel Timeo",
+    "name": "villa",
+    "capacity": 4,
+    "price": 15500000
+  },
+  {
+    "property_name": "Villa Serbelloni Lake Como",
+    "name": "villa",
+    "capacity": 4,
+    "price": 16500000
+  },
+  {
+    "property_name": "Four Seasons Milan Palace",
+    "name": "Classic Convent Courtyard Twin",
+    "capacity": 2,
+    "price": 15000000
+  },
+  {
+    "property_name": "Four Seasons Milan Palace",
+    "name": "Milan Quadrilatero Luxury Suite",
+    "capacity": 4,
+    "price": 31000000
+  },
+  {
+    "property_name": "One&Only Wolgan Valley",
+    "name": "villa",
+    "capacity": 4,
+    "price": 21000000
+  },
+  {
+    "property_name": "Park Hyatt Paris Vendome",
+    "name": "Classic Chef Courtyard Double",
+    "capacity": 2,
+    "price": 13500000
+  },
+  {
+    "property_name": "Park Hyatt Paris Vendome",
+    "name": "Vendome Rue de la Paix Palace Suite",
+    "capacity": 4,
+    "price": 28000000
+  },
+  {
+    "property_name": "Raffles Grand Hotel d'Angkor",
+    "name": "Classic Lap Pool View Twin",
+    "capacity": 2,
+    "price": 3800000
+  },
+  {
+    "property_name": "Raffles Grand Hotel d'Angkor",
+    "name": "Angkor Wat Historic Sunset Suite",
+    "capacity": 4,
+    "price": 7900000
+  },
+  {
+    "property_name": "Al Maha Desert Luxury Resort",
+    "name": "villa",
+    "capacity": 4,
+    "price": 24000000
+  },
+  {
+    "property_name": "The Ritz Paris Luxury Hotel",
+    "name": "Classic Place Vendome Double",
+    "capacity": 2,
+    "price": 22000000
+  },
+  {
+    "property_name": "The Ritz Paris Luxury Hotel",
+    "name": "Coco Chanel Heritage Grand Suite",
+    "capacity": 4,
+    "price": 48000000
+  },
+  {
+    "property_name": "Como Shambhala Estate",
+    "name": "villa",
+    "capacity": 4,
+    "price": 9500000
+  },
+  {
+    "property_name": "Six Senses Douro Valley",
+    "name": "villa",
+    "capacity": 4,
+    "price": 8500000
+  },
+  {
+    "property_name": "Amanzoe Luxury Villa Ridge",
+    "name": "villa",
+    "capacity": 6,
+    "price": 26000000
+  },
+  {
+    "property_name": "The Ritz-Carlton Kyoto",
+    "name": "Classic Kamogawa River Twin",
+    "capacity": 2,
+    "price": 11500000
+  },
+  {
+    "property_name": "The Ritz-Carlton Kyoto",
+    "name": "Zen Waterfall Traditional Suite",
+    "capacity": 3,
+    "price": 24000000
+  },
+  {
+    "property_name": "Banyan Tree Seychelles Villas",
+    "name": "Classic Ocean Granite Twin",
+    "capacity": 2,
+    "price": 14500000
+  },
+  {
+    "property_name": "Banyan Tree Seychelles Villas",
+    "name": "Creole Plantation Infinity Pool Suite",
+    "capacity": 4,
+    "price": 29000000
+  },
+  {
+    "property_name": "Anantara Golden Triangle Resort",
+    "name": "villa",
+    "capacity": 4,
+    "price": 18500000
+  },
+  {
+    "property_name": "The Beverly Hills Hotel",
+    "name": "Classic Pink Palace Double",
+    "capacity": 2,
+    "price": 12500000
+  },
+  {
+    "property_name": "The Beverly Hills Hotel",
+    "name": "Polo Lounge Star Celebrity Suite",
+    "capacity": 4,
+    "price": 26000000
+  },
+  {
+    "property_name": "Cheval Blanc St-Barth Isle",
+    "name": "villa",
+    "capacity": 4,
+    "price": 22000000
+  },
+  {
+    "property_name": "Mandarin Oriental Hyde Park",
+    "name": "Classic Knightsbridge Park View Twin",
+    "capacity": 2,
+    "price": 15500000
+  },
+  {
+    "property_name": "Mandarin Oriental Hyde Park",
+    "name": "Heston Blumenthal Luxury Suite",
+    "capacity": 4,
+    "price": 32000000
+  },
+  {
+    "property_name": "Rosewood London Mansion",
+    "name": "Classic Carriage Courtyard Double",
+    "capacity": 2,
+    "price": 9800000
+  },
+  {
+    "property_name": "Rosewood London Mansion",
+    "name": "Holborn Edwardian Copper Suite",
+    "capacity": 4,
+    "price": 21000000
+  },
+  {
+    "property_name": "The Peninsula New York",
+    "name": "Classic Fifth Avenue Double",
+    "capacity": 2,
+    "price": 13500000
+  },
+  {
+    "property_name": "The Peninsula New York",
+    "name": "Peninsula Glass Sky Lounge Suite",
+    "capacity": 4,
+    "price": 28000000
+  },
+  {
+    "property_name": "Four Seasons Safari Lodge",
+    "name": "Classic Serengeti Watering Hole Twin",
+    "capacity": 2,
+    "price": 16500000
+  },
+  {
+    "property_name": "Four Seasons Safari Lodge",
+    "name": "Maasai Warrior Wilderness Suite",
+    "capacity": 4,
+    "price": 34000000
+  },
+  {
+    "property_name": "Singita Boulders Lodge",
+    "name": "villa",
+    "capacity": 4,
+    "price": 24000000
+  },
+  {
+    "property_name": "The St. Regis Florence Palace",
+    "name": "Classic Arno River View Double",
+    "capacity": 2,
+    "price": 15500000
+  },
+  {
+    "property_name": "The St. Regis Florence Palace",
+    "name": "Brunelleschi Renaissance Butler Suite",
+    "capacity": 4,
+    "price": 31000000
+  },
+  {
+    "property_name": "Aman Canal Grande Overwater",
+    "name": "villa",
+    "capacity": 4,
+    "price": 22000000
+  },
+  {
+    "property_name": "Hotel Cavo Tagoo Santorini",
+    "name": "Classic Cliff High Cave Twin",
+    "capacity": 2,
+    "price": 16500000
+  },
+  {
+    "property_name": "Hotel Cavo Tagoo Santorini",
+    "name": "Caldera View Heated Glass Pool Suite",
+    "capacity": 4,
+    "price": 34000000
+  },
+  {
+    "property_name": "One&Only Le Saint Geran",
+    "name": "villa",
+    "capacity": 4,
+    "price": 13500000
+  },
+  {
+    "property_name": "The Fullerton Bay Hotel",
+    "name": "Classic Collyer Quay Double",
+    "capacity": 2,
+    "price": 8000000
+  },
+  {
+    "property_name": "The Fullerton Bay Hotel",
+    "name": "Marina Bay Floor Sky Infinity Suite",
+    "capacity": 4,
+    "price": 16500000
+  },
+  {
+    "property_name": "Soneva Kiri Forest Retreat",
+    "name": "villa",
+    "capacity": 4,
+    "price": 19100000
+  },
+  {
+    "property_name": "Mandarin Oriental Paris",
+    "name": "Classic Saint Honore Double",
+    "capacity": 2,
+    "price": 16500000
+  },
+  {
+    "property_name": "Mandarin Oriental Paris",
+    "name": "Sur Mesure Two Story Luxury Pool Suite",
+    "capacity": 4,
+    "price": 34000000
+  },
+  {
+    "property_name": "Rosewood Villa Magna Luxury",
+    "name": "villa",
+    "capacity": 4,
+    "price": 19300000
+  },
+  {
+    "property_name": "Huka Lodge Cascade Villas",
+    "name": "villa",
+    "capacity": 4,
+    "price": 19400000
+  },
+  {
+    "property_name": "Conrad Bora Bora Lagoon View",
+    "name": "Classic Blue Horizon Overwater Twin",
+    "capacity": 2,
+    "price": 13500000
+  },
+  {
+    "property_name": "Conrad Bora Bora Lagoon View",
+    "name": "Polynesian Panoramic Sunset Spa Suite",
+    "capacity": 4,
+    "price": 28000000
+  },
+  {
+    "property_name": "Belmond Copacabana Palace Pool",
+    "name": "villa",
+    "capacity": 4,
+    "price": 19600000
+  },
+  {
+    "property_name": "The Tokyo Station Imperial",
+    "name": "Classic Cathedral Station Vault Twin",
+    "capacity": 2,
+    "price": 11000000
+  },
+  {
+    "property_name": "The Tokyo Station Imperial",
+    "name": "Imperial Palace View High Suite",
+    "capacity": 4,
+    "price": 23000000
+  },
+  {
+    "property_name": "Amanpulo Palawan Sea Casitas",
+    "name": "villa",
+    "capacity": 4,
+    "price": 19800000
+  },
+  {
+    "property_name": "Post Ranch Inn Cliffside",
+    "name": "Classic Redwood Forest Valley Twin",
+    "capacity": 2,
+    "price": 16500000
+  },
+  {
+    "property_name": "Post Ranch Inn Cliffside",
+    "name": "Pacific Cliff Edge Basking Pool Suite",
+    "capacity": 4,
+    "price": 34000000
+  },
+  {
+    "property_name": "Burj Al Arab Sky Palace",
+    "name": "Classic Duplex Ocean View Twin",
+    "capacity": 2,
+    "price": 29000000
+  },
+  {
+    "property_name": "Burj Al Arab Sky Palace",
+    "name": "Flagship 360 Sky Palace Duplex Suite",
+    "capacity": 6,
+    "price": 65000000
+  }
+]
