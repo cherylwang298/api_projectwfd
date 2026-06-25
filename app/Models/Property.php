@@ -4,11 +4,12 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Concerns\HasUuids;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class Property extends Model
 {
     //
-     use HasUuids;
+    use HasUuids;
 
     protected $table = 'properties';
 
@@ -19,4 +20,9 @@ class Property extends Model
         'address',
         'description',
     ];
+
+    public function units(): HasMany
+    {
+        return $this->hasMany(Unit::class, 'property_id');
+    }
 }
