@@ -19,4 +19,9 @@ class Unit extends Model
         'capacity',
         'price',
     ];
+
+     public function property()
+    {
+        return $this->belongsTo(Property::class);
+    }
 }
