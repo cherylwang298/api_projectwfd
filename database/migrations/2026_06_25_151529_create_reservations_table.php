@@ -16,7 +16,8 @@ return new class extends Migration
             $table->string('unit_id');
             $table->timestamp('check_in')->nullable();
             $table->timestamp('check_out')->nullable();
-             $table->foreign('unit_id')->references('id')->on('units')->onDelete('cascade');
+            $table->string('application_reservation_id');
+            $table->foreign('unit_id')->references('id')->on('units')->onDelete('cascade');
             $table->timestamps();
         });
     }
