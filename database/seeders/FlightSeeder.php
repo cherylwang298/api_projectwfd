@@ -9,78 +9,117 @@ use Carbon\Carbon;
 
 class FlightSeeder extends Seeder
 {
-    /**
-     * Run the database seeds.
-     */
     public function run(): void
     {
-        // 1. Path ke file CSV
         $csvFile = database_path('seeders/csv/flights.csv');
-        
+
         if (!file_exists($csvFile)) {
-            $this->command->error("File CSV tidak ditemukan di: {$csvFile}");
+            $this->command->error("File CSV tidak ditemukan: {$csvFile}");
             return;
         }
 
-        // 2. Ambil data 'id' dari tabel airlines yang sudah di-seed sebelumnya
-        // Ini penting karena flights Anda punya foreign key ke airlines
         $airlineIds = DB::table('airlines')->pluck('id')->toArray();
 
         if (empty($airlineIds)) {
-            $this->command->error("Tabel airlines masih kosong! Seed airlines terlebih dahulu.");
+            $this->command->error("Tabel airlines kosong!");
             return;
         }
 
-        // 3. Buka dan baca file CSV
-        $fileHandle = fopen($csvFile, 'r');
-        
-        // Lewati baris pertama jika itu adalah header kolom
-        $header = fgetcsv($fileHandle, 1000, ",");
+        $handle = fopen($csvFile, 'r');
 
-        $this->command->info("Sedang memasukkan data flights dari CSV...");
+        // Skip header
+        fgetcsv($handle);
 
-        while (($row = fgetcsv($fileHandle, 1000, ",")) !== FALSE) {
-    
-            // Karena indeks $row[0] adalah kolom 'id' bawaan csv (0, 1, 2...), 
-            // maka kolom data lainnya bergeser mulai dari indeks ke-1:
+        $this->command->info('Memulai import flights...');
+
+        $batchSize = 50;
+        $batch = [];
+        $inserted = 0;
+
+        $now = now();
+
+        while (($row = fgetcsv($handle, 0, ",")) !== false) {
+
             try {
-                $year  = $row[1]; // Kolom 'year'
-                $month = str_pad($row[2], 2, '0', STR_PAD_LEFT); // Kolom 'month'
-                $day   = str_pad($row[3], 2, '0', STR_PAD_LEFT); // Kolom 'day'
-                
-                // Asumsi kolom ke-5 ($row[4]) adalah jam keberangkatan (dep_time)
-                $depTimeRaw = str_pad($row[4] ?? '0000', 4, '0', STR_PAD_LEFT); 
-                $hour   = substr($depTimeRaw, 0, 2);
-                $minute = substr($depTimeRaw, 2, 2);
-                
-                $departureTimestamp = Carbon::create($year, $month, $day, $hour, $minute, 0);
-                $arrivalTimestamp   = $departureTimestamp->copy()->addHours(2); // Simulasi durasi 2 jam
+
+                $year  = (int) $row[1];
+                $month = (int) $row[2];
+                $day   = (int) $row[3];
+
+                $depTime = preg_replace('/[^0-9]/', '', $row[4] ?? '');
+
+                if (empty($depTime)) {
+                    $depTime = '0000';
+                }
+
+                $depTime = str_pad($depTime, 4, '0', STR_PAD_LEFT);
+
+                $hour   = (int) substr($depTime, 0, 2);
+                $minute = (int) substr($depTime, 2, 2);
+
+                if ($hour > 23) {
+                    $hour = 0;
+                }
+
+                if ($minute > 59) {
+                    $minute = 0;
+                }
+
+                $departureTime = Carbon::create(
+                    $year,
+                    $month,
+                    $day,
+                    $hour,
+                    $minute,
+                    0
+                );
+
+                $arrivalTime = $departureTime->copy()->addHours(2);
 
             } catch (\Exception $e) {
-                $departureTimestamp = Carbon::now();
-                $arrivalTimestamp   = Carbon::now()->addHours(2);
+
+                $departureTime = $now;
+                $arrivalTime = $now->copy()->addHours(2);
             }
 
-            // Ambil acak ID maskapai dari tabel airlines yang sudah ada datanya
-            $randomAirlineId = $airlineIds[array_rand($airlineIds)];
+            $batch[] = [
+                'id'             => (string) Str::uuid(),
+                'airline_id'     => $airlineIds[array_rand($airlineIds)],
 
-            // Masukkan data ke database
-            DB::table('flights')->insert([
-                'id'             => Str::uuid()->toString(), // Kita generate UUID baru secara otomatis, abaikan 'id' (0,1,2..) dari CSV
-                'airline_id'     => $randomAirlineId,        // Memenuhi foreign key
-                'origin'         => $row[8] ?? 'SUB',        // Sesuaikan urutan kolom nama bandara asal Anda
-                'destination'    => $row[9] ?? 'CGK',        // Sesuaikan urutan kolom nama bandara tujuan Anda
-                'departure_time' => $departureTimestamp,
-                'arrival_time'   => $arrivalTimestamp,
-                'class'          => collect(['business', 'economy'])->random(),
+                // CSV flights dataset
+                'origin'         => $row[13] ?? 'SUB',
+                'destination'    => $row[14] ?? 'CGK',
+
+                'departure_time' => $departureTime,
+                'arrival_time'   => $arrivalTime,
+
+                'class'          => rand(0, 1) ? 'business' : 'economy',
                 'seats'          => rand(50, 180),
                 'price'          => rand(500000, 3000000),
-                'created_at'     => Carbon::now(),
-                'updated_at'     => Carbon::now(),
-            ]);
+
+                'created_at'     => $now,
+                'updated_at'     => $now,
+            ];
+
+            if (count($batch) >= $batchSize) {
+
+                DB::table('flights')->insert($batch);
+
+                $inserted += count($batch);
+
+                $this->command->info("Inserted {$inserted} rows...");
+
+                $batch = [];
+            }
         }
 
-        fclose($fileHandle);
-        $this->command->info("Data flights berhasil dimasukkan!");
+        if (!empty($batch)) {
+            DB::table('flights')->insert($batch);
+            $inserted += count($batch);
+        }
+
+        fclose($handle);
+
+        $this->command->info("Selesai! Total {$inserted} flights berhasil diimport.");
     }
 }
