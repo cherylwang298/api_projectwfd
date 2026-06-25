@@ -5,19 +5,17 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Concerns\HasUuids;
 use Illuminate\Database\Eloquent\Model;
 
-class Reservation extends Model
+class FlightBooking extends Model
 {
     //
-
     use HasUuids;
 
-    protected $table = 'reservations';
+    protected $table = 'flight_bookings';
 
     protected $fillable = [
-        'unit_id',
-        'check_in',
-        'check_out',
-        'application_reservation_id'
+        'application_reservation_id',
+        'flight_id'
     ];
+
 
 }
