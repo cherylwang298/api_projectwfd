@@ -41,43 +41,50 @@ class FlightSeeder extends Seeder
         while (($row = fgetcsv($handle, 0, ",")) !== false) {
 
             try {
-
-                $year  = (int) $row[1];
+                // $year  = (int) $row[1];
                 $month = (int) $row[2];
                 $day   = (int) $row[3];
 
+                // --- 1. PARSING DEPARTURE TIME ---
                 $depTime = preg_replace('/[^0-9]/', '', $row[4] ?? '');
-
                 if (empty($depTime)) {
                     $depTime = '0000';
                 }
-
                 $depTime = str_pad($depTime, 4, '0', STR_PAD_LEFT);
 
-                $hour   = (int) substr($depTime, 0, 2);
-                $minute = (int) substr($depTime, 2, 2);
+                $depHour   = (int) substr($depTime, 0, 2);
+                $depMinute = (int) substr($depTime, 2, 2);
 
-                if ($hour > 23) {
-                    $hour = 0;
+                if ($depHour > 23) $depHour = 0;
+                if ($depMinute > 59) $depMinute = 0;
+
+                $departureTime = Carbon::create(2026, $month, $day, $depHour, $depMinute, 0);
+
+                // --- 2. PARSING ARRIVAL TIME (DARI CSV) ---
+                // Bersihkan string (menghilangkan '.0' jika ada dari format 830.0)
+                $arrTime = preg_replace('/[^0-9]/', '', $row[7] ?? ''); 
+
+                if (!empty($arrTime)) {
+                    $arrTime = str_pad($arrTime, 4, '0', STR_PAD_LEFT);
+                    $arrHour   = (int) substr($arrTime, 0, 2);
+                    $arrMinute = (int) substr($arrTime, 2, 2);
+
+                    if ($arrHour > 23) $arrHour = 0;
+                    if ($arrMinute > 59) $arrMinute = 0;
+
+                    // Buat objek Carbon awal untuk arrival di hari yang sama dengan departure
+                    $arrivalTime = Carbon::create(2026, $month, $day, $arrHour, $arrMinute, 0);
+
+                    // Antisipasi jika jam sampai lebih kecil dari jam berangkat (pesawat mendarat besok harinya)
+                    if ($arrivalTime->lessThan($departureTime)) {
+                        $arrivalTime->addDay();
+                    }
+                } else {
+                    // Fallback jika data arr_time di CSV kosong, otomatis tambah 2 jam dari keberangkatan
+                    $arrivalTime = $departureTime->copy()->addHours(2);
                 }
-
-                if ($minute > 59) {
-                    $minute = 0;
-                }
-
-                $departureTime = Carbon::create(
-                    $year,
-                    $month,
-                    $day,
-                    $hour,
-                    $minute,
-                    0
-                );
-
-                $arrivalTime = $departureTime->copy()->addHours(2);
 
             } catch (\Exception $e) {
-
                 $departureTime = $now;
                 $arrivalTime = $now->copy()->addHours(2);
             }
@@ -102,13 +109,9 @@ class FlightSeeder extends Seeder
             ];
 
             if (count($batch) >= $batchSize) {
-
                 DB::table('flights')->insert($batch);
-
                 $inserted += count($batch);
-
                 $this->command->info("Inserted {$inserted} rows...");
-
                 $batch = [];
             }
         }
