@@ -5,8 +5,8 @@ use App\Http\Controllers\ImageController;
 use App\Http\Controllers\PropertyController;
 use App\Http\Controllers\ReservationController;
 use App\Http\Controllers\UnitController;
-use Illuminate\Support\Facades\Route;use App\Http\Controllers\FlightController;
-use App\Http\Controllers\UnitController;
+use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\FlightController;
 
 // Route::middleware('auth:api')->get('/user', function (Request $request) {
 //     return $request->user();
