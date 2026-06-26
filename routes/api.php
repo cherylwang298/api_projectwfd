@@ -3,6 +3,7 @@
 use App\Http\Controllers\AirlineController;
 
 use App\Http\Controllers\FlightController;
+use App\Http\Controllers\FlightBookingController;
 use App\Http\Controllers\UnitController;
 
 use App\Http\Controllers\ImageController;
@@ -31,3 +32,4 @@ Route::get('/images', [ImageController::class, 'getAllImages'])->name('images');
 
 Route::post('/reservations',[ReservationController::class,'store']);
 
+Route::post('/tickets', [FlightBookingController::class, 'store']);
