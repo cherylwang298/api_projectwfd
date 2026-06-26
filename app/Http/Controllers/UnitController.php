@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\Unit;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
-use App\Models\Unit;
+
 
 
 class UnitController extends Controller
@@ -16,11 +16,13 @@ class UnitController extends Controller
     public function getAllUnits(): JsonResponse
     {
         // Ambil semua data unit
-        $units = Unit::all();
+        $units = Unit::with('property')->get();
 
         // Kembalikan dalam bentuk response JSON standar API
         return response()->json($units, 200);
     }
+
+  
 
     /**
      * Mengambil data unit spesifik berdasarkan ID (jika nanti dibutuhkan)
