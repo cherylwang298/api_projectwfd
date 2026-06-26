@@ -21,8 +21,6 @@ class UnitController extends Controller
         return response()->json($units, 200);
     }
 
-  
-
     /**
      * Mengambil data unit spesifik berdasarkan ID (jika nanti dibutuhkan)
      */

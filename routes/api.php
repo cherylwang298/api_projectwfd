@@ -25,7 +25,7 @@ Route::get('/units/{id}', [UnitController::class, 'getUnitById'])->name('units.s
 Route::get('/flights', [FlightController::class, 'getAllFlights'])->name('flights');
 Route::get('/flights/{id}', [FlightController::class, 'getFlightById'])->name('flights.show');
 
-Route::get('/units', [UnitController::class, 'getAllUnits'])->name('units');
+// Route::get('/units', [UnitController::class, 'getAllUnits'])->name('units');
 Route::get('/reservations', [ReservationController::class, 'getAllReservations'])->name('reservations');
 Route::get('/images', [ImageController::class, 'getAllImages'])->name('images');
 
