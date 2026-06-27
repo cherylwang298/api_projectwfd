@@ -21,7 +21,7 @@ class PropertySeeder extends Seeder
 
         foreach ($properties as $prop) {
             DB::table('properties')->insert([
-                'id' => Str::uuid()->toString(), // Generate UUID jika id database pakai UUID
+                'id' => Str::uuid()->toString(), 
                 'name' => $prop['name'],
                 'type' => $prop['type'],
                 'city' => $prop['city'],

@@ -14,7 +14,6 @@ class FlightSeeder2 extends Seeder
      */
     public function run(): void
     {
-        // 1. Seed Tabel Airlines dengan UUID dan IATA Code 2 Huruf
         $airlines = [
             ['id' => Str::uuid()->toString(), 'code' => 'GA', 'name' => 'Garuda Indonesia'],
             ['id' => Str::uuid()->toString(), 'code' => 'JT', 'name' => 'Lion Air'],
@@ -26,9 +25,7 @@ class FlightSeeder2 extends Seeder
             ['id' => Str::uuid()->toString(), 'code' => 'QF', 'name' => 'Qantas'],
             ['id' => Str::uuid()->toString(), 'code' => 'JQ', 'name' => 'Jetstar'],
         ];
-
-        // Insert airlines terlebih dahulu
-        foreach ($airlines as $airline) {
+           foreach ($airlines as $airline) {
             DB::table('airlines')->insert([
                 'id'         => $airline['id'],
                 'code'       => $airline['code'],
@@ -38,19 +35,19 @@ class FlightSeeder2 extends Seeder
             ]);
         }
 
-        // Ambil daftar UUID airline yang baru dimasukkan untuk referensi flights
+ 
         $airlineIds = array_column($airlines, 'id');
 
-        // 2. Daftar Bandara (Indonesia & Sekitarnya)
+      
         $airports = ['CGK', 'DPS', 'SUB', 'KUL', 'SIN', 'SYD', 'MEL'];
 
-        // 3. Rentang Waktu (26 Juni s.d. 10 Juli 2026)
+   
         $startDate = Carbon::create(2026, 6, 26, 0, 0, 0);
         $endDate = Carbon::create(2026, 7, 10, 23, 59, 59);
 
         $flightsData = [];
 
-        // Looping setiap hari dalam range tersebut
+     
         for ($date = $startDate->copy(); $date->lte($endDate); $date->addDay()) {
             
             // Looping bandara asal
